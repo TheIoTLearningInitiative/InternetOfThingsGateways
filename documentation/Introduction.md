@@ -8,6 +8,8 @@
 
 
 - [DK50 Getting Started](http://www.intel.es/content/www/es/es/embedded/design-tools/evaluation-platforms/gateway-solutions/gateway-solutions-iot-dk50-dev-kit-getting-started-guide.html)
+- [DK50 Getting Started]()
+- [DK50 Getting Started]()
 
 - Wind River Helix Device Cloud*: Product Overview
 
