@@ -4,7 +4,7 @@
 
 - [Intel® IoT Gateways: Get Started](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/overview.html)
 - [2015 IoT Solutions World Congress Barcelona](http://www.intel.co.uk/content/www/uk/en/internet-of-things/events/iot-solutions-world-congress-barcelona-2015.html)
-- [](https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/)
+- [Connect an Intel® IoT Gateway to IBM IoT Foundation](https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/)
 
 
 - Wind River Helix Device Cloud*: Product Overview
