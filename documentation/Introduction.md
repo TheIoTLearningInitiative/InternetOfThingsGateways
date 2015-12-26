@@ -12,6 +12,8 @@
 - 802.11n + WiFi Bluetooth low energy; WWAN (3G or LTE)
 - Optional wireless mesh modules: IEEE 802.15.4 Zigbee/6LoWPAN combo module*, Z-Wave module
 
-## UTX-3115
+## Advantech UTX Gateway System
+
+### UTX-3115
 
 http://www.advantech.com/products/bda911fe-28bc-4171-aed3-67f76f6a12c8/utx-3115/mod_fa00d5cd-7d2b-430b-8983-c232bfb9f315
