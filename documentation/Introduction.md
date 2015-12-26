@@ -12,6 +12,7 @@
 - [DK200 Getting Started](http://www.intel.com/content/www/us/en/embedded/design-tools/evaluation-platforms/gateway-solutions/dk200-development-kit-getting-started-guide.html)
 
 - Wind River Helix Device Cloud*: Product Overview
+- https://www.youtube.com/watch?v=_Q4GlqAf2m4
 
 ## Dell Edge Gateway 5000 Series
 
