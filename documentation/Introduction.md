@@ -16,6 +16,7 @@
 - https://www.youtube.com/watch?v=x5RdXKxg3nA&list=PLV850jtTzoaKXSPLC1p2nmGtz7ZhwHa85
 - https://console.ng.bluemix.net/
 - https://developer.ibm.com/recipes/tutorials/intel-edison/
+- https://github.com/chipgarner/EdisonBluemixNode/blob/quickstart/main.js
 
 ## Dell Edge Gateway 5000 Series
 
