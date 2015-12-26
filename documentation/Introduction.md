@@ -2,9 +2,7 @@
 
 ## Intel
 
-- [
-2015 IoT Solutions World Congress Barcelona
-](http://www.intel.co.uk/content/www/uk/en/internet-of-things/events/iot-solutions-world-congress-barcelona-2015.html)
+- [2015 IoT Solutions World Congress Barcelona](http://www.intel.co.uk/content/www/uk/en/internet-of-things/events/iot-solutions-world-congress-barcelona-2015.html)
 
 ## Dell Edge Gateway 5000 Series
 
