@@ -15,4 +15,5 @@ Gateways
 
 ## Gateway Databases
 
-IBM Informix
+### IBM Informix
+
