@@ -8,3 +8,5 @@ Internet Of Things Gateways
 
 - Can reduce the cost of backend cloud
 - Reduce latency, actions executed immediately
+- Prefer having data locally than in the cloud
+- Protocol Consolidation
