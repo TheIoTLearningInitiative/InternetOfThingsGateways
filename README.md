@@ -15,7 +15,7 @@ Gateways
 
 ## Gateways
 
-IBM 
+IBM MessageInsight
 
 ## Gateway Databases
 
