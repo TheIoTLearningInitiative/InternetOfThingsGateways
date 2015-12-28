@@ -11,5 +11,4 @@ Internet Of Things Gateways
 - Prefer having data locally than in the cloud
 - Protocol Consolidation
 
-
-Gateway Databases
+## Gateway Databases
