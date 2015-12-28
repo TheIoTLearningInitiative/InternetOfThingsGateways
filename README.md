@@ -10,3 +10,6 @@ Internet Of Things Gateways
 - Reduce latency, actions executed immediately
 - Prefer having data locally than in the cloud
 - Protocol Consolidation
+
+
+Gateway Databases
