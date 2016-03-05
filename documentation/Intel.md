@@ -19,14 +19,14 @@ Intel
 
 ## Gateways
 
-Intel® IoT Gateway Development Kit DK100 Series
-Intel® IoT Gateway Development Kit DK200 Series
-Intel® IoT Gateway Development Kit DK50 Series
-Galileo Gen2 board
-ECS* GWS-QX board
-AAEON* Aiot-x1000 board
-Eurotech* ReliaGATE 15-10 board
-Nexcom* ESI-100 board
+- Intel® IoT Gateway Development Kit DK100 Series
+- Intel® IoT Gateway Development Kit DK200 Series
+- Intel® IoT Gateway Development Kit DK50 Series
+- Galileo Gen2 board
+- ECS* GWS-QX board
+- AAEON* Aiot-x1000 board
+- Eurotech* ReliaGATE 15-10 board
+- Nexcom* ESI-100 board
 
 ## Intel® IoT Gateway Platform Data Editor Tool
 
