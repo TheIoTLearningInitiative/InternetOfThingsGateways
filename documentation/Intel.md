@@ -3,6 +3,7 @@ Intel
 
 - [Intel® IoT Gateways: Get Started](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/overview.html)
 - [2015 IoT Solutions World Congress Barcelona](http://www.intel.co.uk/content/www/uk/en/internet-of-things/events/iot-solutions-world-congress-barcelona-2015.html)
+- [IoT Gateways Search Results @ Intel Site](http://www.intel.es/content/www/es/es/search.html?toplevelcategory=Embedded&keyword=iot+Gateway&%3Acq_csrf_token=undefined#keyword%3Diot%20gateway&filters%3DTarget%20Audience%7CTarget%20Audience%2FEmbedded%20Developers%20%23amp%3B%20Engineers&shadowFilters=)
 - [Connect an Intel® IoT Gateway to IBM IoT Foundation](https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/)
 
 - [DK50 Getting Started](http://www.intel.es/content/www/es/es/embedded/design-tools/evaluation-platforms/gateway-solutions/gateway-solutions-iot-dk50-dev-kit-getting-started-guide.html)
