@@ -20,4 +20,6 @@ Intel
 
 ## Intel® IoT Gateway Platform Data Editor Tool
 
+> Platform Data Editor Tool (PDET)
+
 
