@@ -18,3 +18,6 @@ Intel
 - https://www-ssl.intel.com/content/www/us/en/embedded/products/gateway-solutions/connecting-gateway-solutions-for-iot-to-the-ibm-iot-foundation-video.html
 
 
+## Intel® IoT Gateway Platform Data Editor Tool
+
+
