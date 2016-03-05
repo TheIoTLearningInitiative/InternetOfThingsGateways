@@ -17,6 +17,16 @@ Intel
 - https://github.com/chipgarner/EdisonBluemixNode/blob/quickstart/main.js
 - https://www-ssl.intel.com/content/www/us/en/embedded/products/gateway-solutions/connecting-gateway-solutions-for-iot-to-the-ibm-iot-foundation-video.html
 
+## Gateways
+
+Intel® IoT Gateway Development Kit DK100 Series
+Intel® IoT Gateway Development Kit DK200 Series
+Intel® IoT Gateway Development Kit DK50 Series
+Galileo Gen2 board
+ECS* GWS-QX board
+AAEON* Aiot-x1000 board
+Eurotech* ReliaGATE 15-10 board
+Nexcom* ESI-100 board
 
 ## Intel® IoT Gateway Platform Data Editor Tool
 
