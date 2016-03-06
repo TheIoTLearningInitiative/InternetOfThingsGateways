@@ -129,6 +129,7 @@ The Wind River Edge Management System provides BSPs for the following boards.
 
 [Node-RED Documentation Installation](http://nodered.org/docs/getting-started/installation.html)
 [Connect an Intel® IoT Gateway to IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/)
+[How to Register Devices in IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/how-to-register-devices-in-ibm-iot-foundation/)
 [Intel® IoT Gateway Developer Hub](https://software.intel.com/en-us/tags/82166)
 [Getting Started with Node-RED and IBM Bluemix](https://github.com/intel-iot-devkit/Intel-IoT-Gateway/blob/master/Getting%20Started%20With%20Node-Red%20and%20Bluemix/README.MD)
 
