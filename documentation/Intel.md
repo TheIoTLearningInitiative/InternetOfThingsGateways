@@ -22,8 +22,8 @@ Intel® IoT Gateway Development Kit Features:
 - [2015 IoT Solutions World Congress Barcelona](http://www.intel.co.uk/content/www/uk/en/internet-of-things/events/iot-solutions-world-congress-barcelona-2015.html)
 - [IoT Gateways Search Results @ Intel Site](http://www.intel.es/content/www/es/es/search.html?toplevelcategory=Embedded&keyword=iot+Gateway&%3Acq_csrf_token=undefined#keyword%3Diot%20gateway&filters%3DTarget%20Audience%7CTarget%20Audience%2FEmbedded%20Developers%20%23amp%3B%20Engineers&shadowFilters=)
 - [Connect an Intel® IoT Gateway to IBM IoT Foundation](https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/)
-- https://github.com/intel-iot-devkit/Intel-IoT-Gateway
-- http://www.intel.com/content/www/us/en/embedded/solutions/iot-gateway/development-kits.html
+- [Github Recipes for Intel IoT Gateways]https://github.com/intel-iot-devkit/Intel-IoT-Gateway
+- [Intel® IoT Gateway Development Kits](http://www.intel.com/content/www/us/en/embedded/solutions/iot-gateway/development-kits.html)
 - [Intel® IoT Gateway and Snappy Ubuntu Core* from Canonical: Solution Brief](http://www.intel.com/content/www/us/en/embedded/solutions/iot-gateway/intel-and-canonical-snappy-ubuntu-core-solution-brief.html)
 
 
