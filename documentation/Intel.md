@@ -118,6 +118,10 @@ The Wind River Edge Management System provides BSPs for the following boards.
 
 > This document describes how to add or modify the SPI flash data on Intel® IoT Gateway products that use an Intel® Quark™ processor. Also describes how the Platform Data Editor Tool (PDET) provided by Wind River® Intelligent Device Platform XT can be used to read the firmware binary file contents and display the information in human readable format.
 
+## Project
 
+```sh
+    root@edison:~# npm install -g --unsafe-perm node-red
+```
 
 
