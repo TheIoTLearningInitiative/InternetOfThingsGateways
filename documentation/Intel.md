@@ -66,12 +66,13 @@ Included in IDP XT
 > The EMS Server stores data only for the previous 90 days. To maintain data history, you should export the data at regular intervals.
 
 Included in the Wind River Edge Management System
-• Wind River Linux
-• Wind River Workbench
-• Wind River Intelligent Device Platform XT
-• Wind River EMS Layer (wr-ems), which includes an EMS Agent, and the Windows installer for Axeda® Builder.
-• Mashery API interface to the Edge Management System
-• BSPs for the boards supported by the Wind River Intelligent Device Platform XT
+
+- Wind River Linux
+- Wind River Workbench
+- Wind River Intelligent Device Platform XT
+- Wind River EMS Layer (wr-ems), which includes an EMS Agent, and the Windows installer for Axeda® Builder.
+- Mashery API interface to the Edge Management System
+- BSPs for the boards supported by the Wind River Intelligent Device Platform XT
 
 - Wind River Intelligent Device Platform Edge Management System Overview
 - Device side and Cloud side components Device Onboarding, Application Development and Target component updates
