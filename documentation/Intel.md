@@ -123,8 +123,8 @@ The Wind River Edge Management System provides BSPs for the following boards.
 
 > Node-RED is a tool for wiring together hardware devices, APIs and online services in new and interesting ways. [Node-RED Homepage](http://nodered.org/)
 
-http://nodered.org/docs/getting-started/installation.html
-https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/
+[Node-RED Documentation Installation](http://nodered.org/docs/getting-started/installation.html)
+[Connect an Intel® IoT Gateway to IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/)
 
 ```sh
     
