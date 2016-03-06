@@ -24,6 +24,7 @@ Intel® IoT Gateway Development Kit Features:
 - [Connect an Intel® IoT Gateway to IBM IoT Foundation](https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/)
 - https://github.com/intel-iot-devkit/Intel-IoT-Gateway
 - http://www.intel.com/content/www/us/en/embedded/solutions/iot-gateway/development-kits.html
+- [Intel® IoT Gateway and Snappy Ubuntu Core* from Canonical: Solution Brief](http://www.intel.com/content/www/us/en/embedded/solutions/iot-gateway/intel-and-canonical-snappy-ubuntu-core-solution-brief.html)
 
 
 - [DK50 Getting Started](http://www.intel.es/content/www/es/es/embedded/design-tools/evaluation-platforms/gateway-solutions/gateway-solutions-iot-dk50-dev-kit-getting-started-guide.html)
