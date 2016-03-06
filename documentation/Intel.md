@@ -89,6 +89,12 @@ Included in the Wind River Edge Management System
 - Device side and Cloud side components Device Onboarding, Application Development and Target component updates
 - Alarm workflow and error recovery
 
+The Wind River Edge Management System provides BSPs for the following boards.
+• Cross Hill
+• Clanton Hill
+• Galileo
+• Advantech UTX-3115 (Bay Trail)
+
 #### Mashery API
 
 > Mashery APIs enable you to write custom applications using REST API calls over HTTP to manage devices that run the EMS agent.
