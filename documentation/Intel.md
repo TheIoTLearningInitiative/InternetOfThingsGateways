@@ -71,6 +71,7 @@ export the data at regular intervals.
 
 #### Mashery API
 
+> Mashery APIs enable you to write custom applications using REST API calls over HTTP to manage devices that run the EMS agent.
 
 - Wind River Helix Device Cloud*: Product Overview
 - https://www.youtube.com/watch?v=_Q4GlqAf2m4
