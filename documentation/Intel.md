@@ -1,6 +1,14 @@
 Intel
 ==
 
+Intel Gateway Solutions for IoT provides:
+- Connectivity up to the cloud and enterprises
+- Connectivity down to sensors and existing controllers embedded in the system
+- Preprocess filtering of selected data for delivery
+- Local decision-making, enabling easy connectivity to legacy systems
+- A hardware root of trust, data encryption, attestation, and software lockdown for security
+- Local computing for in-device analytics. 
+
 - [Intel® IoT Gateways: Get Started](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/overview.html)
 - [2015 IoT Solutions World Congress Barcelona](http://www.intel.co.uk/content/www/uk/en/internet-of-things/events/iot-solutions-world-congress-barcelona-2015.html)
 - [IoT Gateways Search Results @ Intel Site](http://www.intel.es/content/www/es/es/search.html?toplevelcategory=Embedded&keyword=iot+Gateway&%3Acq_csrf_token=undefined#keyword%3Diot%20gateway&filters%3DTarget%20Audience%7CTarget%20Audience%2FEmbedded%20Developers%20%23amp%3B%20Engineers&shadowFilters=)
