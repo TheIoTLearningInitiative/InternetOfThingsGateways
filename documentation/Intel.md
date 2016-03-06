@@ -42,6 +42,8 @@ Intel® IoT Gateway Development Kit Features:
 
 > The Foundation for Building Devices That Connect to the Internet of Things
 
+> The Wind River Intelligent Device Platform* XT includes the development tools you need to build and customize a target system based on Intel® IoT Gateways.
+
 > The Wind River Intelligent Device Platform XT (IDP XT) packages the Wind River commercialgrade Linux development platform with security and management tools for gateways.
 
 > IDP XT provides integrated development and management support for distributed systems that utilize smart services with cloud computing. It includes secure remote management layer for cloud-based smart services, including automated customer interaction and support.
