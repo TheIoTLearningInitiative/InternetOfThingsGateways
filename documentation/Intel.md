@@ -124,9 +124,17 @@ The Wind River Edge Management System provides BSPs for the following boards.
 > Node-RED is a tool for wiring together hardware devices, APIs and online services in new and interesting ways. [Node-RED Homepage](http://nodered.org/)
 
 http://nodered.org/docs/getting-started/installation.html
+https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/
 
 ```sh
+    
     root@edison:~# npm install -g --unsafe-perm node-red
+     \|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|//
+     > bcrypt@0.8.5 install /usr/lib/node_modules/node-red/node_modules/bcrypt
+     > node-gyp rebuild
+     ...
+     ��├��─��─ ws@0.8.1 (options@0.0.6, ultron@1.0.2, utf-8-validate@1.2.1, bufferutil@1.2.1)
+     ��└��─��─ node-red-node-serialport@0.1.2 (serialport@2.0.6)  
 ```
 
 
