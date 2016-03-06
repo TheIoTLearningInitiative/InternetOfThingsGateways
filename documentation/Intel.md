@@ -10,7 +10,7 @@ Intel Gateway Solutions for IoT provides:
 - Local decision-making, enabling easy connectivity to legacy systems
 - A hardware root of trust, data encryption, attestation, and software lockdown for security
 - Local computing for in-device analytics.
-- [Wind River* Linux 7 and IDP XT* 3.0 is now available on Intel® IoT Gateways](https://software.intel.com/en-us/blogs/2015/08/07/wind-river-linux-7-and-idp-xt-30-is-now-available-on-intel-iot-gateways-for-select)
+
 
 Intel® IoT Gateway Development Kit Features:
 
@@ -27,6 +27,7 @@ Intel® IoT Gateway Development Kit Features:
 - [Intel® IoT Gateway Development Kits](http://www.intel.com/content/www/us/en/embedded/solutions/iot-gateway/development-kits.html)
 - [Intel® IoT Gateway and Snappy Ubuntu Core* from Canonical: Solution Brief](http://www.intel.com/content/www/us/en/embedded/solutions/iot-gateway/intel-and-canonical-snappy-ubuntu-core-solution-brief.html)
 - [Computex: Intel updates IoT Gateway with support for Snappy Ubuntu Core](http://www.theinquirer.net/inquirer/news/2411353/computex-intel-updates-iot-gateway-with-support-for-snappy-ubuntu-core)
+- [Wind River* Linux 7 and IDP XT* 3.0 is now available on Intel® IoT Gateways](https://software.intel.com/en-us/blogs/2015/08/07/wind-river-linux-7-and-idp-xt-30-is-now-available-on-intel-iot-gateways-for-select)
 
 
 - [DK50 Getting Started](http://www.intel.es/content/www/es/es/embedded/design-tools/evaluation-platforms/gateway-solutions/gateway-solutions-iot-dk50-dev-kit-getting-started-guide.html)
