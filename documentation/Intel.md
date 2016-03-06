@@ -29,6 +29,7 @@ Intel® IoT Gateway Development Kit Features:
 - [Computex: Intel updates IoT Gateway with support for Snappy Ubuntu Core](http://www.theinquirer.net/inquirer/news/2411353/computex-intel-updates-iot-gateway-with-support-for-snappy-ubuntu-core)
 - [Wind River* Linux 7 and IDP XT* 3.0 is now available on Intel® IoT Gateways](https://software.intel.com/en-us/blogs/2015/08/07/wind-river-linux-7-and-idp-xt-30-is-now-available-on-intel-iot-gateways-for-select)
 - [Intel® Gateway Solutions for the Internet of Things](http://www.mouser.com/catalog/specsheets/intel_SolutionsForIoT_330184-02.pdf)
+- https://software.intel.com/en-us/blogs/2016/01/14/my-experiences-at-idf-2015-as-a-black-belt-developer-the-intel-iot-gateway
 
 
 - [DK50 Getting Started](http://www.intel.es/content/www/es/es/embedded/design-tools/evaluation-platforms/gateway-solutions/gateway-solutions-iot-dk50-dev-kit-getting-started-guide.html)
