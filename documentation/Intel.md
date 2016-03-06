@@ -2,6 +2,7 @@ Intel
 ==
 
 Intel Gateway Solutions for IoT provides:
+
 - Connectivity up to the cloud and enterprises
 - Connectivity down to sensors and existing controllers embedded in the system
 - Preprocess filtering of selected data for delivery
@@ -19,6 +20,57 @@ Intel Gateway Solutions for IoT provides:
 - [DK50 Getting Started](http://www.intel.es/content/www/es/es/embedded/design-tools/evaluation-platforms/gateway-solutions/gateway-solutions-iot-dk50-dev-kit-getting-started-guide.html)
 - [DK100 Getting Started](http://www.intel.com/content/www/us/en/embedded/design-tools/evaluation-platforms/gateway-solutions/dk100-development-kit-getting-started-guide.html)
 - [DK200 Getting Started](http://www.intel.com/content/www/us/en/embedded/design-tools/evaluation-platforms/gateway-solutions/dk200-development-kit-getting-started-guide.html)
+
+### Wind River® Linux 5.0 / 5.1
+
+- Wind River Linux Overview
+- Development & Build Environment
+- Configuration and Build
+- Layers & Recipes
+- Userspace & Kernel Development
+- Debugging
+
+### Wind River® Intelligent Device Platform XT 2.0
+
+> The Foundation for Building Devices That Connect to the Internet of Things
+
+> The Wind River Intelligent Device Platform XT (IDP XT) packages the Wind River commercialgrade Linux development platform with security and management tools for gateways.
+
+> IDP XT provides integrated development and management support for distributed systems that utilize smart services with cloud computing. It includes secure remote management layer for cloud-based smart services, including automated customer interaction and support.
+
+- Wind River Intelligent Device Platform Overview
+- Architecture
+- Security, Connectivity & Management
+- Validation
+- System Owner, Device & Application Development Vendor Tasks
+
+Included in IDP XT
+- Wind River Linux
+- Wind River Workbench
+- Wind River Intelligent Device Platform XT
+- McAfee Embedded Control
+- BSPs for the following boards:
+  - Cross Hill
+  - Clanton Hill
+  - Galileo
+  - Advantech UTX-3115
+
+### Wind River® EMS Device Management
+
+> The Wind River Edge Management System enables you to remotely manage devices running the
+EMS agent. The EMS Server is the cloud side of the Edge Management System. It receives data from the EMS agent on the devices connected to the server.
+
+> When a device connects to the EMS server, it appears as an asset. The EMS Console provides an administrative interface to the server. You can also create your own application using the Mashery APIs to customize the administration and management of assets, and to export data to back end systems for further processing.
+
+> The EMS Server stores data only for the previous 90 days. To maintain data history, you should
+export the data at regular intervals.
+
+- Wind River Intelligent Device Platform Edge Management System Overview
+- Device side and Cloud side components Device Onboarding, Application Development and Target component updates
+- Alarm workflow and error recovery
+
+#### Mashery API
+
 
 - Wind River Helix Device Cloud*: Product Overview
 - https://www.youtube.com/watch?v=_Q4GlqAf2m4
