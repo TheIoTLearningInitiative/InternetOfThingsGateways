@@ -120,6 +120,8 @@ The Wind River Edge Management System provides BSPs for the following boards.
 
 ## Project
 
+http://nodered.org/docs/getting-started/installation.html
+
 ```sh
     root@edison:~# npm install -g --unsafe-perm node-red
 ```
