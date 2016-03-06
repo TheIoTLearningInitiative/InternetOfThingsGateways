@@ -57,6 +57,8 @@ Included in IDP XT
 
 ### Wind River® EMS Device Management
 
+> The Wind River Edge Management System (EMS) for the Wind River Intelligent Device Platform XT (IDP XT) delivers a pre-integrated technology stack to support configuring, building, and deploying Wind River Cloud enabled systems to supported boards.
+
 > The Wind River Edge Management System enables you to remotely manage devices running the EMS agent. The EMS Server is the cloud side of the Edge Management System. It receives data from the EMS agent on the devices connected to the server.
 
 > When a device connects to the EMS server, it appears as an asset. The EMS Console provides an administrative interface to the server. You can also create your own application using the Mashery APIs to customize the administration and management of assets, and to export data to back end systems for further processing.
