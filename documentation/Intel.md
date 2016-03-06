@@ -152,6 +152,7 @@ The Wind River Edge Management System provides BSPs for the following boards.
      1.00586756077
      message published     
      ...
+     [Go to https://quickstart.internetofthings.ibmcloud.com/#/ and write Device ID based on device MAC Address]
 ```
 
 
