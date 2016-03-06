@@ -9,7 +9,10 @@ Intel Gateway Solutions for IoT provides:
 - Preprocess filtering of selected data for delivery
 - Local decision-making, enabling easy connectivity to legacy systems
 - A hardware root of trust, data encryption, attestation, and software lockdown for security
-- Local computing for in-device analytics. 
+- Local computing for in-device analytics.
+- [WIND RIVER* LINUX 7 AND IDP XT* 3.0 IS NOW AVAILABLE ON INTEL® IOT GATEWAYS FOR SELECT CUSTOMERS.
+
+admin's picture](https://software.intel.com/en-us/blogs/2015/08/07/wind-river-linux-7-and-idp-xt-30-is-now-available-on-intel-iot-gateways-for-select)
 
 Intel® IoT Gateway Development Kit Features:
 
