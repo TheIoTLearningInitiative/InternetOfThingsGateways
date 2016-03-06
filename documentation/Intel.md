@@ -120,6 +120,8 @@ The Wind River Edge Management System provides BSPs for the following boards.
 
 ## Project
 
+> Node-RED is a tool for wiring together hardware devices, APIs and online services in new and interesting ways. [Node-RED Homepage](http://nodered.org/)
+
 http://nodered.org/docs/getting-started/installation.html
 
 ```sh
