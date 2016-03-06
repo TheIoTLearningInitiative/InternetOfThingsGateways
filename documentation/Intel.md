@@ -10,6 +10,13 @@ Intel Gateway Solutions for IoT provides:
 - A hardware root of trust, data encryption, attestation, and software lockdown for security
 - Local computing for in-device analytics. 
 
+Intel® IoT Gateway Development Kit Features:
+
+- Fully-configured compute board, wireless communications, security software, operating system, development tools, chassis, power supply, antennas, and documentation.
+- Standards-based interfaces for I/O, cellular, and Wi-Fi simplify communications down to sensors and controllers and up to datacenters and the cloud. 
+- Board support package (BSP), Wind River Linux* 5 OS, Wind River Intelligent Device Platform* XT, and Wind River Workbench* development environment with perpetual licensing.
+- McAfee Embedded Control* maximizes security by dynamically monitoring and managing whitelists. 
+
 - [Intel® IoT Gateways: Get Started](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/overview.html)
 - [2015 IoT Solutions World Congress Barcelona](http://www.intel.co.uk/content/www/uk/en/internet-of-things/events/iot-solutions-world-congress-barcelona-2015.html)
 - [IoT Gateways Search Results @ Intel Site](http://www.intel.es/content/www/es/es/search.html?toplevelcategory=Embedded&keyword=iot+Gateway&%3Acq_csrf_token=undefined#keyword%3Diot%20gateway&filters%3DTarget%20Audience%7CTarget%20Audience%2FEmbedded%20Developers%20%23amp%3B%20Engineers&shadowFilters=)
