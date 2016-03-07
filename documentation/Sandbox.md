@@ -9,7 +9,7 @@ Gateways can filter data from different types of sensors and protocols.
 
 Intel Gateways are preconfigured with Wind River Helix Device Cloud agent, it provides easy connectivity to facilitate device configuration, data capture, file transfers, etc.
 
-![ Intel® Gateway Solutions for IoT Software Stack.](iotSoftwareStack.PNG)
+![Intel® Gateway Solutions for IoT Software Stack.](iotSoftwareStack.PNG)
 
 Connectivity is critical to generating intelligence.
 
