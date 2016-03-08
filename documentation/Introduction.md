@@ -45,21 +45,27 @@ from [Intel Gateways Solutions for IoT](http://www.windriver.com/announces/intel
 
 > Complete power management tasks with finer precision and faster response times, resulting in energy conservation, usage prioritization, and better outage response.
 
-**Healthcare** Collect, compile, and analyze precise and objective data on cloud-connected smart devices to improve treatment and services in hospitals, doctors' offices, and homes.
+#### Healthcare
 
+> Collect, compile, and analyze precise and objective data on cloud-connected smart devices to improve treatment and services in hospitals, doctors' offices, and homes.
 
 #### Transportation
 
 > Leverage wireless networks and cloud-based control systems to optimize performance and make immediate critical decisions to improve safety and reliability.
 
-> Real-time equipment tracking: Cloud-based central control systems will enable operators to pinpoint any piece of equipment.
+**Real-time equipment tracking** Cloud-based central control systems will enable operators to pinpoint any piece of equipment.
 
-• Inter-equipment communication: Much as PTC helps avert rail accidents, planes can report turbulence to other planes, alerting pilots to take appropriate precautions; urban mass transit vehicles can report traffic delays or accidents.
-• Predictive maintenance: Rather than simply alerting drivers, vehicles will transmit defect data directly to engineers. Predictive maintenance will identify components in need of repair, eliminating the need to take equipment out of service for routine inspections and preventive maintenance.
-• Remote upgrades: Operators can upgrade software over the air in hundreds of connected devices spread across hundreds of vehicles simultaneously.
-• Fuel management: System operators will have better visibility into fuel consumption and efficiency, potentially saving millions in fuel costs.
-• Improved passenger comfort and convenience: Carriers can offer more onboard amenities. Transit riders can know how soon the next bus is coming. Air travelers can be alerted to delays via their mobile devices before they leave for the airport.
-• Safety: Connected devices in vehicles must be able to receive software upgrades and patches in ways that do not impede their safe operation.
+**Inter-equipment communication** Much as PTC helps avert rail accidents, planes can report turbulence to other planes, alerting pilots to take appropriate precautions; urban mass transit vehicles can report traffic delays or accidents.
+
+**Predictive maintenance** Rather than simply alerting drivers, vehicles will transmit defect data directly to engineers. Predictive maintenance will identify components in need of repair, eliminating the need to take equipment out of service for routine inspections and preventive maintenance.
+
+**Remote upgrades** Operators can upgrade software over the air in hundreds of connected devices spread across hundreds of vehicles simultaneously.
+
+**Fuel management** System operators will have better visibility into fuel consumption and efficiency, potentially saving millions in fuel costs.
+
+**Improved passenger comfort and convenience** Carriers can offer more onboard amenities. Transit riders can know how soon the next bus is coming. Air travelers can be alerted to delays via their mobile devices before they leave for the airport.
+
+**Safety** Connected devices in vehicles must be able to receive software upgrades and patches in ways that do not impede their safe operation.
 
 - - [Snappy Porting](https://ograblog.wordpress.com/2015/01/25/porting-ubuntu-snappy-to-a-yet-unsupported-armhf-board/)
 
