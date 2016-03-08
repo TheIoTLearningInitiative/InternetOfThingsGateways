@@ -49,6 +49,18 @@ from [Intel Gateways Solutions for IoT](http://www.windriver.com/announces/intel
 
 > Collect, compile, and analyze precise and objective data on cloud-connected smart devices to improve treatment and services in hospitals, doctors' offices, and homes.
 
+#### Smart Buildings
+
+> Transform and protect the home and office by designing in building automation features such as intelligence, modularity, and security.
+
+**Energy savings** Integrated with the smart energy grid, smart buildings and homes represent a huge opportunity to reduce power consumption by businesses and families. Power providers can take advantage of efficiencies based on the schedules and usage patterns of building inhabitants. Smart power meters and appliances will communicate with intelligent power sources to help balance supply and demand. Green buildings, LEED certification, and net-zero energy consumption will become increasingly commonplace.
+
+**Remote monitoring and control** Building operators and residential consumers will be able to monitor utility consumption and control heating, lighting, safety, and security systems from offsite. For commercial buildings, that means being able to monitor multiple properties from a centralized property management location, communicate to onsite maintenance crews, and take control of systems in a fire or other emergency.
+
+**Predictive maintenance** Sensors in a building’s mechanical components will alert engineers when a part needs attention, reducing the time and labor costs associated with routine inspections and preventive maintenance.
+
+**Assisted living** As our societies’ demographics change, with populations aging and life spans extending, the modern building will need to support independent living at older ages. With sensors, controllers, and intelligence, smart buildings can provide telemedical solutions or other technical assistance for aging people, enabling true ambient assisted living.
+
 #### Transportation
 
 > Leverage wireless networks and cloud-based control systems to optimize performance and make immediate critical decisions to improve safety and reliability.
