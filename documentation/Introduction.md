@@ -17,6 +17,9 @@ Gateways
 - 
 ## Gateways
 
-IBM MessageInsight
+
+### IBM MessageInsight
+
+> MessageSight is a messaging appliance designed to process large volumes of events in near real time and to handle a large number of concurrently connected devices (sensors or mobile devices)
 
 # Introduction
