@@ -105,7 +105,7 @@ The Wind River Edge Management System provides BSPs for the following boards.
 #### Mashery API
 
 > Mashery APIs enable you to write custom applications using REST API calls over HTTP to manage devices that run the EMS agent.
-## Gateways
+## Intel® Gateways
 
 - Intel® IoT Gateway Development Kit DK50 Series
 - Intel® IoT Gateway Development Kit DK100 Series
