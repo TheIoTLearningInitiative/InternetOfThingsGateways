@@ -6,6 +6,8 @@ Intel® IoT Gateways
 
 [Intel® IoT Gateways Homepage](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/overview.html)
 
+![Intel® Gateway Solutions for IoT Software Stack.](iotSoftwareStack.PNG)
+
 Intel Gateway Solutions for IoT provides:
 
 - Connectivity up to the cloud and enterprises
