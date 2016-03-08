@@ -19,6 +19,9 @@ Intel Gateway Solutions for IoT provides:
 
 ### Wind River
 
+> Wind River is a subsidiary company of Intel providing embedded system software which comprises run-time software, industry-specific software solutions, simulation technology, development tools and middleware. [Wikipedia](https://en.wikipedia.org/wiki/Wind_River_Systems)
+
+
 Intel® IoT Gateway Development Kit Features:
 
 - Fully-configured compute board, wireless communications, security software, operating system, development tools, chassis, power supply, antennas, and documentation.
