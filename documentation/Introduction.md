@@ -19,6 +19,8 @@ Introduction
 
 ### IoT Use Cases
 
+
+
 #### Adaptive Analytics
 
 > Refine operational enterprise processes based on insights gained from analyzing and interpreting vast amounts of data
