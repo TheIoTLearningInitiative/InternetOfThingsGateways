@@ -4,7 +4,7 @@
 * [Introduction](documentation/Introduction.md)
 * [Intel](documentation/Intel.md)
 * [Dell](documentation/Dell.md)
-* Advantech
+* [Advantech](documentation/Advantech.md)
 * [Databases](documentation/Databases.md)
 * [Virtual](documentation/Virtual.md)
 * [SandBox](documentation/Sandbox.md)
