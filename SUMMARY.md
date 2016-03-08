@@ -3,6 +3,7 @@
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
 * Vendors
+   * documentation/Temp
 * [Intel](documentation/Intel.md)
 * [Dell](documentation/Dell.md)
 * [Advantech](documentation/Advantech.md)
