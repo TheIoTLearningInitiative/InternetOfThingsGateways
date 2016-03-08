@@ -4,8 +4,8 @@
 * [Introduction](documentation/Introduction.md)
 * [Vendors](documentation/Vendors.md)
    * [Intel](documentation/Intel.md)
+   * [Dell](documentation/Dell.md)
    * documentation/Temp
-* [Dell](documentation/Dell.md)
 * [Advantech](documentation/Advantech.md)
 * [Frameworks](documentation/Frameworks.md)
 * [Databases](documentation/Databases.md)
