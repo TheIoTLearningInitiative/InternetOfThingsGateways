@@ -6,9 +6,7 @@ Moved information to Introduction :)
 
 
 
-Connectivity is critical to generating intelligence.
 
-![](iotGateways.PNG)
 
 Intel Gateway Solutions for IoT provides:
 
