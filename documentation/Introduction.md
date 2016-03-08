@@ -16,8 +16,6 @@ Introduction
 
 > can filter data from different types of sensors and protocols.
 
-
-> 
 - - [Snappy Porting](https://ograblog.wordpress.com/2015/01/25/porting-ubuntu-snappy-to-a-yet-unsupported-armhf-board/)
 
 ## Some Ideas
