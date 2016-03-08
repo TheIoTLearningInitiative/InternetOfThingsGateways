@@ -2,6 +2,8 @@ Intel® IoT Gateways
 ==
 > Intel® IoT Gateways connect legacy and next generation intelligent infrastructure reducing time-to-market and development cost with open architecture pre-validated solutions.
 
+[Intel® IoT Gateways Homepage](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/overview.html)
+
 Intel Gateway Solutions for IoT provides:
 
 - Connectivity up to the cloud and enterprises
