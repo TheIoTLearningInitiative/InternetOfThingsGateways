@@ -16,6 +16,9 @@ Introduction
 
 > Can filter data from different types of sensors and protocols.
 
+> Connectivity is critical to generating intelligence.
+
+![](iotGateways.PNG)
 
 ### IoT Use Cases
 
