@@ -13,7 +13,9 @@ Intel Gateway Solutions for IoT provides:
 
 ## McAfee
 
-## WindRiver
+> Intel Security Group (previously McAfee, Inc. /ˈmækəfiː/) is an American global computer security software company headquartered in Santa Clara, California, and the world's largest dedicated security technology company. Wikipedia
+
+## Wind River
 
 Intel® IoT Gateway Development Kit Features:
 
