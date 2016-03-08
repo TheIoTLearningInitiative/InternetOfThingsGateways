@@ -2,7 +2,7 @@
 
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
-* Vendors
+* [Vendors](documentation/Vendors.md)
    * documentation/Temp
 * [Intel](documentation/Intel.md)
 * [Dell](documentation/Dell.md)
