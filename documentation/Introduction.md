@@ -16,7 +16,7 @@ Introduction
 
 > can filter data from different types of sensors and protocols.
 
-Intel Gateways are preconfigured with Wind River Helix Device Cloud agent, it provides easy connectivity to facilitate device configuration, data capture, file transfers, etc.
+
 > 
 - - [Snappy Porting](https://ograblog.wordpress.com/2015/01/25/porting-ubuntu-snappy-to-a-yet-unsupported-armhf-board/)
 
