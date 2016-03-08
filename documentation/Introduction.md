@@ -14,7 +14,7 @@ Introduction
 
 > Pre-integrated, pre-validated hardware & software building blocks. They enable secure data flow between devices and the cloud.
 
-> can filter data from different types of sensors and protocols.
+> Can filter data from different types of sensors and protocols.
 
 
 ### IoT Use Cases
