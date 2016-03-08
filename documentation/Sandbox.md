@@ -8,15 +8,6 @@ Moved information to Introduction :)
 
 
 
-Intel Gateway Solutions for IoT provides:
-
-- Connectivity up to the cloud and enterprises
-- Connectivity down to sensors and existing controllers embedded in the system
-- Preprocess filtering of selected data for delivery
-- Local decision-making, enabling easy connectivity to legacy systems
-- A hardware root of trust, data encryption, attestation, and software lockdown for security
-- Local computing for in-device analytics.
-
 
 
 
