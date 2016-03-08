@@ -20,5 +20,3 @@ Gateways
 IBM MessageInsight
 
 # Introduction
-
-
