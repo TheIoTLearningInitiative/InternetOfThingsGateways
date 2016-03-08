@@ -16,7 +16,9 @@ Introduction
 
 > Can filter data from different types of sensors and protocols.
 
-> Connectivity is critical to generating intelligence.
+In the Internet of Things (IoT), cloud-connected smart devices will give manufacturers an alternative means of collecting, compiling, and analyzing precise and objective data on device performance, thereby reducing the time and expense of trial and accelerating time-to-market.
+
+Connectivity is critical to generating intelligence.
 
 ![](iotGateways.PNG)
 
