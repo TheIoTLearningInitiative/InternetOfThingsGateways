@@ -19,7 +19,7 @@ Introduction
 
 ### IoT Use Cases
 
-
+from [Intel Gateways Solutions for IoT](http://www.windriver.com/announces/intel-gateway-solutions-for-iot/)
 
 #### Adaptive Analytics
 
