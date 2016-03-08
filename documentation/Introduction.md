@@ -19,10 +19,6 @@ Gateways
 
 IBM MessageInsight
 
-## Gateway Databases
-
-### IBM Informix
-
 # Introduction
 
 
