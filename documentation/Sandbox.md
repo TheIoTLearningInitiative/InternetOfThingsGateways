@@ -1,13 +1,6 @@
 SandBox
 ==
-A gatewway....
-Gateways are the solution for the IoT industry, these are devices that connect all the things we are making smart to the cloud and the internet so we have a solid solution.
 
-Gateways are pre-integrated, pre-validated hardware & software building blocks. Also, Gateways enable secure data flow between devices and the cloud.
-
-Gateways can filter data from different types of sensors and protocols.
-
-Intel Gateways are preconfigured with Wind River Helix Device Cloud agent, it provides easy connectivity to facilitate device configuration, data capture, file transfers, etc.
 
 ![Intel® Gateway Solutions for IoT Software Stack.](iotSoftwareStack.PNG)
 
