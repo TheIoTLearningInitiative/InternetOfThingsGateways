@@ -13,7 +13,7 @@ Intel Gateway Solutions for IoT provides:
 
 ## McAfee
 
-> Intel Security Group (previously McAfee, Inc. /ˈmækəfiː/) is an American global computer security software company headquartered in Santa Clara, California, and the world's largest dedicated security technology company. Wikipedia
+> Intel Security Group (previously McAfee, Inc. /ˈmækəfiː/) is an American global computer security software company headquartered in Santa Clara, California, and the world's largest dedicated security technology company. [Wikipedia](https://en.wikipedia.org/wiki/Intel_Security)
 
 ## Wind River
 
