@@ -11,11 +11,13 @@ Intel Gateway Solutions for IoT provides:
 - A hardware root of trust, data encryption, attestation, and software lockdown for security
 - Local computing for in-device analytics.
 
-## McAfee
+## Partners
+
+### McAfee
 
 > Intel Security Group (previously McAfee, Inc. /ˈmækəfiː/) is an American global computer security software company headquartered in Santa Clara, California, and the world's largest dedicated security technology company. [Wikipedia](https://en.wikipedia.org/wiki/Intel_Security)
 
-## Wind River
+### Wind River
 
 Intel® IoT Gateway Development Kit Features:
 
