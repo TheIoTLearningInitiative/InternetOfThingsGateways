@@ -39,7 +39,9 @@ Introduction
 
 **Buildings** Sensors in a building’s electrical and mechanical systems, such as lighting, climate control, plumbing, or security, will alert engineers when a part or component needs attention, enabling maintenance crews and contractors to focus on imminent issues rather than around-the-clock inspection and monitoring.
 
-**Energy** Complete power management tasks with finer precision and faster response times, resulting in energy conservation, usage prioritization, and better outage response.
+#### Energy
+
+> Complete power management tasks with finer precision and faster response times, resulting in energy conservation, usage prioritization, and better outage response.
 
 **Healthcare** Collect, compile, and analyze precise and objective data on cloud-connected smart devices to improve treatment and services in hospitals, doctors' offices, and homes.
 
