@@ -1,8 +1,10 @@
 SandBox
 ==
 
+Moved information to Introduction :)
 
-![Intel® Gateway Solutions for IoT Software Stack.](iotSoftwareStack.PNG)
+
+
 
 Connectivity is critical to generating intelligence.
 
