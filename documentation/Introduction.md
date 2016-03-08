@@ -17,7 +17,7 @@ Introduction
 > can filter data from different types of sensors and protocols.
 
 
-### Uses
+### IoT Use Cases
 
 #### Adaptive Analytics
 
