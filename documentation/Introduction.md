@@ -1,4 +1,12 @@
-- [Snappy Porting](https://ograblog.wordpress.com/2015/01/25/porting-ubuntu-snappy-to-a-yet-unsupported-armhf-board/)
+Introduction
+==
+
+
+## Internet of Things
+
+> Billion of devices get connected, shared data and get optimized what they based on analyzing that data
+
+- - [Snappy Porting](https://ograblog.wordpress.com/2015/01/25/porting-ubuntu-snappy-to-a-yet-unsupported-armhf-board/)
 
 ## Some Ideas
 
