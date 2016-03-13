@@ -6,7 +6,6 @@
    * [Intel](documentation/Intel.md)
    * [Dell](documentation/Dell.md)
    * [Advantech](documentation/Advantech.md)
-   * [ubiworx](documentation/ubiworx.md)
 * [Frameworks](documentation/Frameworks.md)
 * [Databases](documentation/Databases.md)
 * [Virtual](documentation/Virtual.md)
