@@ -140,14 +140,29 @@ Abraham to add more data
 ## Importance of Security
 
 > To be added (links, information)
+> As the IoT grows, so do the security vulnerabilities of the linked objects.
+> With the arrival of IoT several new types of devices are connected to IP networks.
+-Medical equipment
+-Buildings
+-Cameras
+-Industrial sensors
+-Many other devices.
+
+All these devices need management Access to transport data securely over the internet.
+
 
 ## Security in Non IoT Solutions Vs IoT Solutions
 
 > To be added (links, information)
+> 
+> How can new enterprise implementations secure their data flow?
 
 ## Secure Data Traffic
 
 > To be added (links, information)
+> Focuses on protecting critical data.
+> Any data traffic between a device and the cloud (including information transmitted via mobile apps) should be examined to make sure it is secured.
+
 
 ## Cryptography Protocols
 
