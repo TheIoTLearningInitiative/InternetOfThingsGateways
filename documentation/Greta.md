@@ -17,7 +17,7 @@ Greta
    1.2 Dell Edge Gateway 5000
    1.3 Advantech UTX-3115
 2. List the Communications and Connectivity found in the above gateways
-3. 
+3. What are the Operating Systems supported by different the gateways?
 
 ### 
 
