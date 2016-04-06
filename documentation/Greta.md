@@ -7,20 +7,26 @@ Greta
 
 ### Definition
 
+> Gateway
+  1. An entrance or passage that may be closed by a gate.
+  2. A structure for enclosing such an opening or entrance.
+  3. Any passage by or point at which a region may be entered.
+  4. Software or hardware that links two computer networks.
+
 > Gateways are “Traffic controllers” that bridge data generation to support a range of connectivity protocols and satisfy complex management. Gateways are also called middleware development devices because they are found "in the middle" of an IoT solution. They can filter and aggregate data, secure remote management, save temporal data, have cloud connectivity and device interconnectivity.
 
+#### Important Gateways of the World
+![Gateways of the World](http://blogs.intel.com/iot/files/2014/09/IDF_IOTG_Graphic3.png)
 
-
+> Gateways are a vital means of connecting people, places and things to facilitate commerce and improve our lives.
 >http://www.intel.com/content/www/us/en/internet-of-things/gateway-solutions.html
-
->To be added (links, information)
+>https://blogs.intel.com/iot/2014/09/12/intel-panama-common/
 
 ### Architecture
 
 > The architecture of an Intel gateway consists in 4 basic layers with their correspondant suplayeers. At the bottom we have an Intel Board and Modules (Intel Quark SoC, Intel Atom SoC, Intel Core SoC). Above this layer we have a Wind River Linux Operating System. Above this Operating System layer we have the modules that make a gateway a data controller solution. In this layer we have hardware (discrete TPM and Secure Boot), Run-Time Environment which could be Lua, Java, Python or OSGi, Manageability with Wind River Helix Device, OMA DM, TR-069, and web configuration. There we have too a security layer that has enabled OpenSSL, iptables, encrypted storage, DM-Crypt and an IPsec VPN. 
 
 http://www.windriver.com/announces/intel-gateway-solutions-for-iot/resources/IDP_XT_Product_Overview.pdf
-
 
 
 ### Justification
@@ -42,8 +48,6 @@ Without connectivity, there is no either Smart or Internet in the IoT.
 * Application Software
 
 
-
-
 > https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/overview.html
 > http://www.windriver.com/announces/intel-gateway-solutions-for-iot/
 
@@ -51,8 +55,7 @@ Without connectivity, there is no either Smart or Internet in the IoT.
 
 > Buildings: Adaptive analytics can improve the accuracy and performance of systems used to monitor and manage energy consumption, climate control, lighting, mechanical equipment and security.
 > Energy: Devices can adjust the speed and blade pitch of wind turbines to improve efficiency and reduce wear.
-> Transportation
-Smart control systems can tell trains to slow down based on a variety of constantly changing external data inputs, such as weather, topography, location, distance from destination, track conditions, or car-to-car communication indicating another train is ahead.
+> Transportation: Smart control systems can tell trains to slow down based on a variety of constantly changing external data inputs, such as weather, topography, location, distance from destination, track conditions, or car-to-car communication indicating another train is ahead.
 
 > http://www.windriver.com/announces/intel-gateway-solutions-for-iot/
 
@@ -60,8 +63,8 @@ Smart control systems can tell trains to slow down based on a variety of constan
 
 1. Review the following gateways models
    1.1 Intel DK50, DK100, DK200, DK300.
-   1.2 Dell Edge Gateway 5000
-   1.3 Advantech UTX-3115
+   1.2 Dell Edge Gateway 5000.
+   1.3 Advantech UTX-3115.
 2. List the Communications and Connectivity found in the above gateways
 3. What are the Operating Systems supported by different the gateways?
 4. 
@@ -102,7 +105,7 @@ Smart control systems can tell trains to slow down based on a variety of constan
 ##### Security McAffee
 
 > McAfee Embedded Control* maximizes security by dynamically monitoring and managing whitelists. 
-> Verify system integrity at the hardware level to protect critical data throughout the device lifecycle.
+> *Verify system integrity at the hardware level to protect critical data throughout the device lifecycle.*
 http://www.intel.com/content/www/us/en/embedded/solutions/iot-gateway/development-kits.html
 
 
