@@ -13,7 +13,8 @@ Greta
 ## Hands-On
 
 1. Review the following gateways models
-   1.1 Intel 
+   1.1 Intel DK200
+   1.2 
 
 ### 
 
