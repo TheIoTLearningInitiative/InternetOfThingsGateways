@@ -7,7 +7,9 @@ Greta
 
 ### Definition
 
-> Gateways are “Traffic controllers” that bridge data generation to support a range of connectivity protocols and satisfy complex management.
+> Gateways are “Traffic controllers” that bridge data generation to support a range of connectivity protocols and satisfy complex management. Gateways are also called middleware development devices because they are found "in the middle" of an IoT solution. They can filter and aggregate data, secure remote management, save temporal data, have cloud connectivity and device interconnectivity.
+
+
 To be added (links, information)
 
 ### Architecture
@@ -121,7 +123,14 @@ Wind River Helix: The Software Foundation for the Internet of Things
 * Simulation
 * Open Networks
 
-3. 
+## Wind River IoT Building Blocks
+
+> Devices: The “things” in the Internet of Things. 
+By 2020, these data generators and gatherers will number 26 billon, 
+all connected to the Internet and providing businesses with endless data from which to analyze and extract value and meaning.
+> Gateways: “Traffic controllers” bridge data generation to support an ever-broadening range of connectivity protocols and satisfy complex management.
+> Networks: This complex interconnected infrastructure for delivering data to every corner of industry and enterprise networks must be optimized for maximum agility, scalability, flexibility, and security.
+> Cloud: Comprising public, private, and hybrid forms, this off-premise storage faces a daunting surge in analytic, security, and reliability challenges to keep pace with the uptime demands of critical infrastructure and trusted systems designed to leverage IoT.
 
 
 Abraham to add more data
