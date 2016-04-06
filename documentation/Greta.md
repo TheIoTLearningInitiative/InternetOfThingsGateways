@@ -19,6 +19,14 @@ Greta
 2. List the Communications and Connectivity found in the above gateways
 3. What are the Operating Systems supported by different the gateways?
 
+# Wind River Intelligent Device Platform
+
+## Theory
+
+### Definition
+### Architecture
+
+
 ### 
 
 
