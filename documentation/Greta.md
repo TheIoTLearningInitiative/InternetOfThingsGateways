@@ -12,7 +12,7 @@ Greta
 
 ## Hands-On
 
-1. Gateways Vendors
+1. Review the following gateways models  
 
 ### 
 
