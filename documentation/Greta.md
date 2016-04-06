@@ -6,9 +6,20 @@ Greta
 ## Theory
 
 ### Definition
+
+> To be added (links, information)
+
 ### Architecture
+
+> To be added (links, information)
+
 ### Justification
+
+> To be added (links, information)
+
 ### Applications
+
+> To be added (links, information)
 
 ## Hands-On
 
@@ -26,8 +37,12 @@ Greta
 ### Theory
 
 #### Definition
+
+> To be added (links, information)
+
 #### Architecture
 
+> To be added (links, information)
 
 ### Wind River
 
