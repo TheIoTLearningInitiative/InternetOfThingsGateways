@@ -55,9 +55,8 @@ Greta
 
 > To be added (links, information)
 > To be structure what are the components, etc e.g. https://www.youtube.com/watch?v=yj5gGxncPlA
-> 
 
-#### Difference 
+#### Differences
 
 ##### Security McAffee
 
