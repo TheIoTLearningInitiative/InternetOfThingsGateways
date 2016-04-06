@@ -23,10 +23,10 @@ Greta
 
 ## Intelligent Device Platform XT
 
-## Theory
+### Theory
 
-### Definition
-### Architecture
+#### Definition
+#### Architecture
 
 
 ### Wind River
