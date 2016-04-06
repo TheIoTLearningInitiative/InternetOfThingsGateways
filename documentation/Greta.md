@@ -47,10 +47,15 @@ Greta
 - Gateways enable new capabilities
 - Ensure connectivity with gateways
 - Remotely manage and troubleshoot devices
+- More connectivity requires greater security
+- Trust your network, trust your data
+- Transform your business today
 
 #### Architecture
 
 > To be added (links, information)
+> To be structure what are the components, etc e.g. https://www.youtube.com/watch?v=yj5gGxncPlA
+> 
 
 #### Difference 
 
