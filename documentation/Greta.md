@@ -77,7 +77,7 @@ Greta
 
 > To be added (links, information)
 
-## Security Traffic
+## Secure Data Traffic
 
 > To be added (links, information)
 
