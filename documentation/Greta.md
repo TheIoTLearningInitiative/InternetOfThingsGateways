@@ -12,7 +12,9 @@ Greta
 
 ## Hands-On
 
+### Gateways Vendors
 
+### 
 
 
 2.	Talk about Wind River IDP XT Platform
