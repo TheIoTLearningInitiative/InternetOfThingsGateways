@@ -32,11 +32,9 @@ Greta
 1. What is Wind River®?
 2. 
 
-
 ### 
 
 
-2.	Talk about Wind River IDP XT Platform
 3.	Review Secure Sockets Layer Transport Layer Security
 4.	Review Mocana NanoSSL
 5.	Review WolfSSL
