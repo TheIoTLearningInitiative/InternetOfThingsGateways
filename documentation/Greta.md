@@ -21,7 +21,7 @@ Greta
 
 # Wind River 
 
-## Intelligent Device Platform
+## Intelligent Device Platform XT
 
 ## Theory
 
