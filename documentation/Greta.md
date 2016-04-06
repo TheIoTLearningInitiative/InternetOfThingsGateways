@@ -85,7 +85,6 @@ Greta
 
 Review Secure Sockets Layer (SSL) Transport Layer Security (TLS)
 
-
 ## Hardware Security Solutions
 
 > To be added (links, information)
