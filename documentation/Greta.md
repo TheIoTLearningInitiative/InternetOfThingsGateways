@@ -16,7 +16,7 @@ Greta
    1.1 Intel DK200
    1.2 Dell Edge Gateway 5000
    1.3 Advantech UTX-3115
-2. List the Connectivity 
+2. List the Communications and Connectivity found in the above gateways
 
 ### 
 
