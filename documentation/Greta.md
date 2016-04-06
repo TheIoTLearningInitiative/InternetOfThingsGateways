@@ -62,7 +62,7 @@ Greta
 
 > To be added (links, information)
 
-### Wind River
+## Wind River Company
 
 1. What is Wind River®?
 2. 
