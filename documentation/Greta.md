@@ -200,4 +200,15 @@ Review Secure Sockets Layer (SSL) Transport Layer Security (TLS)
 
 
 # Helix Cloud
+App Cloud
+Software development platform.
+Wind River Rocket (ideal for building sensors, wearables, industrial controllers) 
+& Wind River Pulsar Linux  (small, high-performance, Linux ).
+
+Lab Cloud
+Is an instantly accessible software lab that improves team collaboration and makes Internet of Things (IoT) development easier for everyone.
+
+Device Cloud
+is a ready-made, cloud-based platform for the Internet of Things (IoT).
+Reduces the complexities of building and rolling out large-scale embedded device networks.
 
