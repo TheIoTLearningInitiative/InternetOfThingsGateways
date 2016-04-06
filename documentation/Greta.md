@@ -77,10 +77,16 @@ Greta
 
 > To be added (links, information)
 
+## Security Traffic
+
+> To be added (links, information)
+
 ## Cryptography Protocols
 
-3.	Review Secure Sockets Layer Transport Layer Security
-4.	Review Mocana NanoSSL
+Review Secure Sockets Layer Transport Layer Security
+
+
+Review Mocana NanoSSL
 5.	Review WolfSSL
 6.	Review Mosquitto and Mosquitto SSL
 
