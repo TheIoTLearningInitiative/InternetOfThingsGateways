@@ -83,12 +83,19 @@ Greta
 
 ## Cryptography Protocols
 
-Review Secure Sockets Layer Transport Layer Security
+Review Secure Sockets Layer (SSL) Transport Layer Security (TLS)
 
 ## Security Solutions
 
 ### Mocana NanoSSL
+
+> To be added (links, information)
+
 ### WolfSSL
+
+> To be added (links, information)
+
 ### Mosquitto and Mosquitto SSL
 
+> To be added (links, information)
 
