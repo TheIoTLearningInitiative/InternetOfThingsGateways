@@ -25,6 +25,20 @@ http://www.windriver.com/announces/intel-gateway-solutions-for-iot/resources/IDP
 > Connectivity is critical to generating intelligence.
 Without connectivity, there is no either Smart or Internet in the IoT.
 
+>Can:
+* Reduce the cost of backend cloud
+* Reduce latency, actions executed immediately
+* Prefer having data locally than in the cloud
+* Protocol Consolidation
+* Edge to Cloud Connectivity
+* Remote I/O
+* Scalability
+* Support for multiple protocols
+* Application Software
+
+
+
+
 > https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/overview.html
 > http://www.windriver.com/announces/intel-gateway-solutions-for-iot/
 
@@ -40,11 +54,13 @@ Smart control systems can tell trains to slow down based on a variety of constan
 ## Hands-On
 
 1. Review the following gateways models
-   1.1 Intel DK200
+   1.1 Intel DK50, DK100, DK200, DK300.
    1.2 Dell Edge Gateway 5000
    1.3 Advantech UTX-3115
 2. List the Communications and Connectivity found in the above gateways
 3. What are the Operating Systems supported by different the gateways?
+4. 
+5. http://www.intel.com/content/www/us/en/embedded/solutions/iot-gateway/development-kits.html
 
 # Wind River 
 
@@ -54,7 +70,7 @@ Smart control systems can tell trains to slow down based on a variety of constan
 
 #### Definition
 
-> To be added (links, information)
+> Is a customizable middleware development environment that provides security, connectivity, rich networking options, and device management. It simplifies the development, integration, and deployment for the Internet of Things.
 
 - Extract value and transform your business
 - Intelligent gateways provides a smooth interface between devices and the cloud
@@ -74,10 +90,15 @@ Smart control systems can tell trains to slow down based on a variety of constan
 
 #### Differences
 
+##### Operating Systems
+>  Intel IoT Gateways offer a choice of Intel® processors for different application needs, support for multiple operating systems (Wind River and Ubuntu* Linux,* Microsoft Windows* 10, etc.), and robust device management capabilities.
+
 ##### Security McAffee
 
-> To be added (links, information)
->  Intel IoT Gateways offer a choice of Intel® processors for different application needs, support for multiple operating systems (Wind River and Ubuntu* Linux,* Microsoft Windows* 10, etc.), and robust device management capabilities.
+> McAfee Embedded Control* maximizes security by dynamically monitoring and managing whitelists. 
+> Verify system integrity at the hardware level to protect critical data throughout the device lifecycle.
+http://www.intel.com/content/www/us/en/embedded/solutions/iot-gateway/development-kits.html
+
 
 ## Wind River Company
 
