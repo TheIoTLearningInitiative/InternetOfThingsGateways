@@ -12,7 +12,7 @@ Greta
 
 ## Hands-On
 
-### Gateways Vendors
+1. Gateways Vendors
 
 ### 
 
