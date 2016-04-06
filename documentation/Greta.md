@@ -12,7 +12,8 @@ Greta
 
 ## Hands-On
 
-1. Review the following gateways models  
+1. Review the following gateways models
+  2.   
 
 ### 
 
