@@ -97,7 +97,7 @@ Smart control systems can tell trains to slow down based on a variety of constan
 
 ##### Operating Systems
 >  Intel® IoT Gateways offer a choice of Intel® processors for different application needs, support for multiple operating systems (Wind River and Ubuntu* Linux,* Microsoft Windows* 10, etc.), and robust device management capabilities.
-> * Intel® IoT Gateways are the result of Intel’s collaboration with McAfee and Wind River. By providing pre-integrated, pre-validated hardware and software building blocks, the gateways connect legacy and new systems, and enable seamless and secure data flow between edge devices and the cloud.*
+> * Intel® IoT Gateways are the result of Intel’s collaboration with McAfee and Wind River. By providing pre-integrated, pre-validated hardware and software building blocks, the gateways connect legacy and new systems, and enable seamless and secure data flow between edge devices and the cloud.
 
 ##### Security McAffee
 
