@@ -87,8 +87,8 @@ Review Secure Sockets Layer Transport Layer Security
 
 ## Security Solutions
 
-Review Mocana NanoSSL
-5.	Review WolfSSL
-6.	Review Mosquitto and Mosquitto SSL
+### Mocana NanoSSL
+### WolfSSL
+### Mosquitto and Mosquitto SSL
 
 
