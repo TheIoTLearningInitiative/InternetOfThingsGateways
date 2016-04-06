@@ -40,13 +40,21 @@ Greta
 
 > To be added (links, information)
 
+- Extract value and transform your business
+- Intelligent gateways provides a smooth interface between devices and the cloud
+- Extend legacy systems with intelligent gateways
+- Compute capacity powers growth
+- Gateways enable new capabilities
+- Ensure connectivity with gateways
+- Remotely manage and troubleshoot devices
+
 #### Architecture
 
 > To be added (links, information)
 
 #### Difference 
 
-##### McAffee
+##### Security McAffee
 
 > To be added (links, information)
 
