@@ -110,7 +110,7 @@ http://www.intel.com/content/www/us/en/embedded/solutions/iot-gateway/developmen
 
 
 ## Wind River Company
-
+### What is Wind River?
 1. What is Wind River®?
 World leader in embedded software for intelligent connected systems.
 Delivers the technology and expertise that enables the innovation and deployment of safe, secure, and reliable intelligent systems.
