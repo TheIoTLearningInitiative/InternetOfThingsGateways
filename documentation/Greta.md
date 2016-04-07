@@ -139,6 +139,12 @@ all connected to the Internet and providing businesses with endless data from wh
 > Networks: This complex interconnected infrastructure for delivering data to every corner of industry and enterprise networks must be optimized for maximum agility, scalability, flexibility, and security.
 > Cloud: Comprising public, private, and hybrid forms, this off-premise storage faces a daunting surge in analytic, security, and reliability challenges to keep pace with the uptime demands of critical infrastructure and trusted systems designed to leverage IoT.
 
+### Building Blocks Usage
+>Devices:
+  *Real-time virtualization
+  *Connectivity agents
+  *Safe & secure operating systems
+
 
 Abraham to add more data
 
