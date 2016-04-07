@@ -261,15 +261,12 @@ On Intel chips, it is the Intel Management Engine (ME) or Converged Security Eng
 
 # Helix Cloud
 ## App Cloud
-App Cloud
 Software development platform.
 Wind River Rocket (ideal for building sensors, wearables, industrial controllers) 
 & Wind River Pulsar Linux  (small, high-performance, Linux ).
-
-Lab Cloud
+## Lab Cloud
 Is an instantly accessible software lab that improves team collaboration and makes Internet of Things (IoT) development easier for everyone.
-
-Device Cloud
+## Device Cloud
 is a ready-made, cloud-based platform for the Internet of Things (IoT).
 Reduces the complexities of building and rolling out large-scale embedded device networks.
 
