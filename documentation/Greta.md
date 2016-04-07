@@ -149,9 +149,14 @@ all connected to the Internet and providing businesses with endless data from wh
   *Edge device to cloud connectivity
   *Secure remote management
 >Networks:
-*Infrastructure platforms
-*Orchestration
-*Network services
+  *Infrastructure platforms
+  *Orchestration
+  *Network services
+>Clouds:
+  *Edge management
+  *Analytics
+  *API management
+
 
 
 Abraham to add more data
