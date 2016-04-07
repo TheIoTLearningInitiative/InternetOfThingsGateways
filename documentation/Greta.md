@@ -172,8 +172,22 @@ All these devices need management Access to transport data securely over the int
 
 
 ## Cryptography Protocols
-
+> SSL & TLS are protocols that provide data encryption and authentication between applications and servers in scenarios where that data is being sent across an insecure network, such as checking your email.
+  > Which is the most famous usage of SSL & TLS?
+> Secure Sockets Layer (SSL)
+  > SSL protects data in transit by encrypting it.
+> Transport Layer Security (TLS)
+  > SSL's more secure "successor", TLS is the new version of SSL, 
+  > 
+### Encryption
+> These two protocols work on the same level of encryption.
+> The source and the destination must have the correct SSL/TLS certificate in order to do a correct handshake.
+> 
 Review Secure Sockets Layer (SSL) Transport Layer Security (TLS)
+http://security.stackexchange.com/questions/5126/whats-the-difference-between-ssl-tls-and-https
+https://luxsci.com/blog/ssl-versus-tls-whats-the-difference.html
+http://www.tomsguide.com/us/ssl-vs-tls,news-17508.html
+
 
 ## Hardware Security Solutions
 
