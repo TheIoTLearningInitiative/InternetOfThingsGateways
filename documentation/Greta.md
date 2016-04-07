@@ -256,7 +256,7 @@ On Intel chips, it is the Intel Management Engine (ME) or Converged Security Eng
 ## Hands-On
 
 1. Main differences between NanoSSL, Mosquitto SSL, and WolfSSL.
-2. ...
+2. Practice on Mosquitto SSL
 
 
 # Helix Cloud
