@@ -178,11 +178,14 @@ All these devices need management Access to transport data securely over the int
   > SSL protects data in transit by encrypting it.
 > Transport Layer Security (TLS)
   > SSL's more secure "successor", TLS is the new version of SSL, 
-  > 
+  > TLS also encrypts data in transit and requires a handshake between two authorized servers before it shows its contents.
 ### Encryption
 > These two protocols work on the same level of encryption.
 > The source and the destination must have the correct SSL/TLS certificate in order to do a correct handshake.
-> 
+### What happens if I do not select either one?
+> All of your data traffic and your login information are sent in plain text for anyone to see.
+> There is no guarantee that the server you connect to is not some middle man or interloper.
+### 
 Review Secure Sockets Layer (SSL) Transport Layer Security (TLS)
 http://security.stackexchange.com/questions/5126/whats-the-difference-between-ssl-tls-and-https
 https://luxsci.com/blog/ssl-versus-tls-whats-the-difference.html
