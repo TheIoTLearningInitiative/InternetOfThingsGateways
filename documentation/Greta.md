@@ -260,6 +260,7 @@ On Intel chips, it is the Intel Management Engine (ME) or Converged Security Eng
 
 
 # Helix Cloud
+## App Cloud
 App Cloud
 Software development platform.
 Wind River Rocket (ideal for building sensors, wearables, industrial controllers) 
