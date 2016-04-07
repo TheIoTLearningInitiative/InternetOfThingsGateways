@@ -179,6 +179,8 @@ All these devices need management Access to transport data securely over the int
 > Transport Layer Security (TLS)
   > SSL's more secure "successor", TLS is the new version of SSL, 
   > TLS also encrypts data in transit and requires a handshake between two authorized servers before it shows its contents.
+### Handshake
+Is a sub-protocol used to negotiate session information between the client and the server. The session information consists of a session ID, peer certificates, the cipher spec to be used, the compression algorithm to be used, and a shared secret that is used to generate keys.
 ### Encryption
 > These two protocols work on the same level of encryption.
 > The source and the destination must have the correct SSL/TLS certificate in order to do a correct handshake.
@@ -193,6 +195,7 @@ Review Secure Sockets Layer (SSL) Transport Layer Security (TLS)
 http://security.stackexchange.com/questions/5126/whats-the-difference-between-ssl-tls-and-https
 https://luxsci.com/blog/ssl-versus-tls-whats-the-difference.html
 http://www.tomsguide.com/us/ssl-vs-tls,news-17508.html
+https://httpd.apache.org/docs/2.4/ssl/ssl_intro.html
 
 
 ## Hardware Security Solutions
