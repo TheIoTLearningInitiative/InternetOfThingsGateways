@@ -144,6 +144,14 @@ all connected to the Internet and providing businesses with endless data from wh
   *Real-time virtualization
   *Connectivity agents
   *Safe & secure operating systems
+>Gateways:
+  *Data aggregation and filtering
+  *Edge device to cloud connectivity
+  *Secure remote management
+>Networks:
+*Infrastructure platforms
+*Orchestration
+*Network services
 
 
 Abraham to add more data
