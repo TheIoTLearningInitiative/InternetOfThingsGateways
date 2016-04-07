@@ -196,7 +196,8 @@ Is a sub-protocol used to negotiate session information between the client and t
 ### What happens if I do not select either one?
 > All of your data traffic and your login information are sent in plain text for anyone to see.
 > There is no guarantee that the server you connect to is not some middle man or interloper.
-Review Secure Sockets Layer (SSL) Transport Layer Security (TLS)
+Review Secure Sockets Layer (SSL) Transport Layer Security (TLS).
+
 http://security.stackexchange.com/questions/5126/whats-the-difference-between-ssl-tls-and-https
 https://luxsci.com/blog/ssl-versus-tls-whats-the-difference.html
 http://www.tomsguide.com/us/ssl-vs-tls,news-17508.html
@@ -205,11 +206,22 @@ http://security.stackexchange.com/questions/93333/what-layer-is-tls
 
 
 ## Hardware Security Solutions
+###Discrete TPM
+>Discrete Trusted Platform Module (TPM) is a microcontroller that stores encryption keys, passwords and digital certificates. 
+>The discrete form is the silicon module was separated from other system elements and communicated with them via a dedicated hardware bus.
+###Secure Boot
+>Secure Boot is a security standard developed by members of the PC industry to help make sure that your PC boots using only software and hardware modules that are trusted by the PC manufacturer.
+>What happens if a new hardware isn’t trusted? 
+>How do I edit my PC’s Secure Boot database? 
+>How can I add hardware or run software or operating systems that haven’t been trusted by my manufacturer? 
 
-> To be added (links, information)
-
+http://www.jhuapl.edu/techdigest/TD/td3202/32_02-Osborn.pdf
+https://technet.microsoft.com/en-us/library/mt604232(v=vs.85).aspx
+https://technet.microsoft.com/en-us/library/hh824987.aspx
 ## Software Security Solutions
-
+### Firmware TPM
+PM) based component running in a trusted execution environment (TEE) on the system’s main SoC:
+On Intel chips, it is the Intel Management Engine (ME) or Converged Security Engine (CSE).
 ### Mocana NanoSSL
 
 > To be added (links, information)
