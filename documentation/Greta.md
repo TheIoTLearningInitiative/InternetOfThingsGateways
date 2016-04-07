@@ -67,8 +67,8 @@ Without connectivity, there is no either Smart or Internet in the IoT.
    1.3 Advantech UTX-3115.
 2. List the Communications and Connectivity found in the above gateways
 3. What are the Operating Systems supported by different the gateways?
-4. 
-5. http://www.intel.com/content/www/us/en/embedded/solutions/iot-gateway/development-kits.html
+
+http://www.intel.com/content/www/us/en/embedded/solutions/iot-gateway/development-kits.html
 
 # Wind River 
 
