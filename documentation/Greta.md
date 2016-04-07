@@ -186,7 +186,12 @@ Is a sub-protocol used to negotiate session information between the client and t
 > The source and the destination must have the correct SSL/TLS certificate in order to do a correct handshake.
 ![Cipher Algorithms](Cipher Algorithms.PNG)
 ![Key Generation Algorithm](key algorithm.PNG)
-
+### In which layer these two protocol are?
+>The OSI model does not work with SSL/TLS. TLS is not in any layer.
+  >SSL/TLS uses an underlying transport medium that provides a bidirectional stream of bytes. That would put it somewhere above layer 4.
+  >SSL/TLS organizes data as records, that may contain, in particular, handshake messages. Handshake messages look like layer 5. This would put SSL/TLS at layer 6 or 7.
+  >What SSL/TLS conveys is "application data", which is, in fact, a bidirectional stream of bytes. Applications that use SSL/TLS really use it as a transport protocol. They then use their own data representation and messages and semantics within that "application data". 
+  >Therefore, SSL/TLS could not be, in the OSI model, beyond layer 4.
 ### Should I choose TLS or SSL?
 ### What happens if I do not select either one?
 > All of your data traffic and your login information are sent in plain text for anyone to see.
@@ -196,6 +201,7 @@ http://security.stackexchange.com/questions/5126/whats-the-difference-between-ss
 https://luxsci.com/blog/ssl-versus-tls-whats-the-difference.html
 http://www.tomsguide.com/us/ssl-vs-tls,news-17508.html
 https://httpd.apache.org/docs/2.4/ssl/ssl_intro.html
+http://security.stackexchange.com/questions/93333/what-layer-is-tls
 
 
 ## Hardware Security Solutions
