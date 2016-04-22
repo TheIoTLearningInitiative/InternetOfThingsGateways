@@ -13,7 +13,7 @@
 >Power Supply or Another USB Cable
 >Preinstall Ubilinux on the Intel Edison Board
 >Connect the Intel Edison WiFi to the internet
->Linux installed on your computers
+>Linux installed on your computer
 
 ## Ubilinux
 
