@@ -60,3 +60,5 @@
 http://www.ubiworx.com/ubiworx/help/documentation/gateway-install-guide/03-Edison.html
 http://www.emutexlabs.com/ubilinux/29-ubilinux/218-ubilinux-installation-instructions-for-intel-edison
 http://www.ubiworx.com/ubiworx/video-tutorials/getting-started/install-ubiworx-lite-on-intel-edison
+http://www.emutexlabs.com/ubilinux/29-ubilinux/218-ubilinux-installation-instructions-for-intel-edison
+https://learn.sparkfun.com/tutorials/loading-debian-ubilinux-on-the-edison
