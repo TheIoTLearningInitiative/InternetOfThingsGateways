@@ -15,7 +15,6 @@
 >Connect the Intel Edison WiFi to the internet
 >Linux installed on your computers
 
-
 ## Ubilinux
 
 >Ubilinux is a Debian variant and allows installation onto the internal flash of an Intel Edison platform.
