@@ -31,6 +31,11 @@
 >To add a new gateway, go to the home view by clicking in the ubiworx logo or the home icon or visit https://broker.ubiworx.com/login/.
 >In the gateway side navigation click on the Add button under the Configuration section.
 >Fill in the form (not all fields are mandatory). See the section bellow with details about each field.
+>>These mandatory fields can be filled up this way.
+>>Name * 	Insert a name for the new gateway.
+>>Unique ID * 	Insert a unique ID, this ID needs to be globally unique to your account. Note: this field can NOT be changed once created.
+>>MAC * 	Identifies the hardware device being used. If a gateway needs to be replaced, the value in this field can be updated to reflect the new hardware.
+>>The MAC address is inside the Edison, once logged in in the Edison type "ifconfig", under the wlan0 interface, there is a field called HWaddr along with some kind of hexadecimal number, this number without the ":" is the MAC address.
 >Save changes using the button, the changes are saved on the ubiworx broker and will be synced when the gateway connects.
 >You should be able to see your newly created Gateway in the dashboard.
 >Note your vendor ID and your gateway ID for later use. Your vendor ID can be found by clicking on your username in the upper right corner. For viewing the gateway ID, go back to the dashboard and lookup its ID in the ID column.
