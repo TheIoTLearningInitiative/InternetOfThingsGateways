@@ -47,4 +47,4 @@ OK Bluetooth Low Energy based on blueZ (5.18) is up and running!
 
 
 
-https://communities.intel.com/docs/DOC-23391 
+
