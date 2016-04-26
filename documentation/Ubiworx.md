@@ -62,3 +62,4 @@ http://www.emutexlabs.com/ubilinux/29-ubilinux/218-ubilinux-installation-instruc
 http://www.ubiworx.com/ubiworx/video-tutorials/getting-started/install-ubiworx-lite-on-intel-edison
 http://www.emutexlabs.com/ubilinux/29-ubilinux/218-ubilinux-installation-instructions-for-intel-edison
 https://learn.sparkfun.com/tutorials/loading-debian-ubilinux-on-the-edison
+https://communities.intel.com/docs/DOC-23391 
