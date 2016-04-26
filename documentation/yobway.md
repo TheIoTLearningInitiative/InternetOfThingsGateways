@@ -9,5 +9,6 @@
 >>you can check version ```cat /etc/version``` or ```configure_edison --version```
 
 ## Setup
->
+>now run configure_edison --setup, the option --setup is not present before doing an successful upgrade always check for latest image updates: configure_edison --upgrade hint: if you are on build >=68 you can activate the Wifi AP mode (see section down) and run the configuration via webconsole http://your_Edison_IP_address
+
 ##
