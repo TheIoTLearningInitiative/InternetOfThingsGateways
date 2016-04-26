@@ -13,5 +13,5 @@
 * [Greta](documentation/Greta.md)
 * [Lucio](documentation/Lucio.md)
 * [Ubiworx](documentation/Ubiworx.md)
-* YoBWay
+* [YoBWay](documentation/yobway.md)
 
