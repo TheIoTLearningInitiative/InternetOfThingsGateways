@@ -14,5 +14,5 @@
 * [Lucio](documentation/Lucio.md)
 * [Ubiworx](documentation/Ubiworx.md)
 * [YoBWay](documentation/yobway.md)
-* Clayster
+* [Clayster](documentation/Clayster.md)
 
