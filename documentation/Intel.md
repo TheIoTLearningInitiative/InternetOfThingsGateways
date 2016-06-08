@@ -5,7 +5,7 @@ Intel® IoT Gateways
 > Intel® IoT Gateways are preconfigured with Wind River Helix Device Cloud agent, it provides easy connectivity to facilitate device configuration, data capture, file transfers, etc.
 
 - Intel® IoT Gateways Homepage](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/overview.html)
-- [Intel® IoT Gateways: Publishing Data to an MQTT Broker Using Python*](https://software.intel.com/en-us/SetupGateway-MQTT)
+- [Intel® IoT Gateways: Publishing Data to an MQTT Broker Using Python](https://software.intel.com/en-us/SetupGateway-MQTT)
 
 ![Intel® Gateway Solutions for IoT Software Stack.](iotSoftwareStack.PNG)
 
