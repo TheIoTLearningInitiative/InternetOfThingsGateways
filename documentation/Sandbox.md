@@ -10,6 +10,7 @@ SandBox
   - [ECS and Tatung in Strategic Alliance](http://www.digitimes.com/news/a20051007A1001.html)
   - [ECS Homepage](http://www.ecs.com.tw/ecswebsite/index.aspx?MenuID=0&LanID=0)
   - [Tatung Homepage](http://www.tatung.com/en/)
+  - [Tatung Homepage Smart Parking](http://www.tatung.com/Solution/detail/10624)
   - Key Words
     - Smart Parking
     - Assest Management
