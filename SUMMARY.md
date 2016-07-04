@@ -4,7 +4,7 @@
 * [Introduction](documentation/Introduction.md)
 * [Vendors](documentation/Vendors.md)
    * [Intel](documentation/Intel.md)
-       * Intel-Based Gateway Solutions
+       * [Intel-Based Gateway Solutions](documentation/IntelBasedGatewaySolutions.md)
    * [Dell](documentation/Dell.md)
    * [Advantech](documentation/Advantech.md)
    * [Exolinked](documentation/Exolinked.md)
