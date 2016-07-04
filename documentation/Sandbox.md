@@ -28,7 +28,7 @@ SandBox
     - Retail & Fiscal
   - Top 3 Segments
     - Smart Building
-    - Smart Retail
+    - Retail & Fiscal
     - Smart Factory
 - Models
   - AAEON AIOT-QA
