@@ -1,7 +1,5 @@
 # Intel-Based Gateway Solutions
 
-
-
 # Dell Edge Gateway 5000 Series 
 
 > Smart Data, Fast Data, Quick Decisions
