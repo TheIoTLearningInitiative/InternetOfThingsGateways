@@ -54,6 +54,8 @@ SandBox
 
 # [NEXCOM Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/nexcom-iot-gateway-solutions-video.html)
 
+
+
 # [ADLINK Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/adlink-iot-gateway-solutions-video.html)
 
 
