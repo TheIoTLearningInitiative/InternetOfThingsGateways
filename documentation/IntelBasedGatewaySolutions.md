@@ -21,7 +21,7 @@
   - Manageability CCM (Cloud Client Management)
   - Quantity One
   - Global Support
-- Reliable Software Ecosystem
+    - Reliable Software Ecosystem
 
 # [Kontron Cobalt 901](http://www.kontron.com/products/systems/defense-computers/compact-mission-computers/cobalt-901.html)
 
