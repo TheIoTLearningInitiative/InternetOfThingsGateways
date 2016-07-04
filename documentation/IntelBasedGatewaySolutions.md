@@ -1,5 +1,12 @@
 # Intel-Based Gateway Solutions
 
+- Dell Edge Gateway 5000 Series 
+- Kontron Cobalt 901
+- AAEON Intel-based Gateway Solutions
+- Tatung Intel-based Gateway Solutions
+- NEXCOM Intel-based Gateway Solutions
+- ADLINK Intel-based Gateway Solutions
+
 # Dell Edge Gateway 5000 Series 
 
 > Smart Data, Fast Data, Quick Decisions
