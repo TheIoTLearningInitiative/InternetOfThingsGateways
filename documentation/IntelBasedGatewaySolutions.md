@@ -23,7 +23,9 @@
   - Global Support
     - Reliable Software Ecosystem
 
-# [Kontron Cobalt 901](http://www.kontron.com/products/systems/defense-computers/compact-mission-computers/cobalt-901.html)
+# Kontron Cobalt 901
+
+- [Kontron Cobalt 901](http://www.kontron.com/products/systems/defense-computers/compact-mission-computers/cobalt-901.html)
 
 
 # AAEON Intel-based Gateway Solutions
