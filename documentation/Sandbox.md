@@ -98,8 +98,7 @@ SandBox
 
 > World class application ready intelligent platform provider
 
-Challenges
-
+- Challenges
 - 
 
 ## Making a Gateway
