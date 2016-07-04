@@ -64,7 +64,7 @@ SandBox
 - Characteristicas
   - Edge to cloud Connectivity
   - Remote I/O
-  - Scalability
+  - Scalability, Field Bus Protocols
   - Support for Multiple Protocols
   - Application Software
 
