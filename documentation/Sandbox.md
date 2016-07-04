@@ -30,6 +30,7 @@ SandBox
     - Smart Building
     - Retail & Fiscal
     - Smart Factory
+- AAEON AIOT-DRM With PLC Function
 - Models
   - AAEON AIOT-QA
   - AAEON AIOT-QM
