@@ -17,8 +17,10 @@
 - End to End set of SW, HW, Services and Partners 
 - Support Proprietary I/O
 - I/O that it is not onboard, brakout box to design around a PCIe spec any I/O missing 
-- Manageability CCM (Cloud Client Management)
-- Global Support
+- Differences
+  - Manageability CCM (Cloud Client Management)
+  - 
+  - Global Support
 - Reliable Software Ecosystem
 
 # [Kontron Cobalt 901](http://www.kontron.com/products/systems/defense-computers/compact-mission-computers/cobalt-901.html)
