@@ -3,7 +3,7 @@ SandBox
 
 
 - [Dell Edge Gateway 5000 Series Homepage](http://www.dell.com/learn/us/en/04/campaigns/coming-soon-dell-iot-gateway)
-- [](http://www.kontron.com/products/systems/defense-computers/compact-mission-computers/cobalt-901.html)
+- [Kontron Cobalt 901](http://www.kontron.com/products/systems/defense-computers/compact-mission-computers/cobalt-901.html)
 
 
 ## Making a Gateway
