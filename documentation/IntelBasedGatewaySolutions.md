@@ -4,7 +4,7 @@
 
 # Dell Edge Gateway 5000 Series 
 
-> Like a PC in the inside, like a 
+> Like a PC at the inside, a contorl system at the outside
 
 - [Dell Edge Gateway 5000 Series Homepage](http://www.dell.com/learn/us/en/04/campaigns/coming-soon-dell-iot-gateway)
 - [Intel® IoT Gateway Solutions from Dell: Get Performance at the Edge: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/dell-iot-gateway-solutions-video.html)
