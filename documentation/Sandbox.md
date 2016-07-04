@@ -6,7 +6,10 @@ SandBox
 - [Kontron Cobalt 901](http://www.kontron.com/products/systems/defense-computers/compact-mission-computers/cobalt-901.html)
 
 - [AAEON Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/tatung-iot-gateway-solutions-video.html)
-  - Ap 
+  - Application Ready Platform
+  - Solution Customization
+  - System Integration
+  - Professional Services
 - [Tatung Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/aaeon-iot-gateway-solutions-video.html) 
   - [ECS and Tatung in Strategic Alliance](http://www.digitimes.com/news/a20051007A1001.html)
   - [ECS Homepage](http://www.ecs.com.tw/ecswebsite/index.aspx?MenuID=0&LanID=0)
