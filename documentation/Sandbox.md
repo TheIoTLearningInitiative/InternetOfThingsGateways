@@ -102,6 +102,9 @@ SandBox
   - Securing dependable transmission of collected data
   - Guaranteeing functionality in demanding environment 
   - Intelligently forecasting machine failure for zero downtime
+- Models
+  - MXE-100i Series
+  - MXE-200i Series
   - 
 
 ## Making a Gateway
