@@ -32,6 +32,8 @@ SandBox
 - Models
   - AAEON AIOT-QA
   - AAEON AIOT-QM
+    - Extreme Temperatures
+    - Analog Digital RS 
 
 # [Tatung Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/aaeon-iot-gateway-solutions-video.html) 
 
