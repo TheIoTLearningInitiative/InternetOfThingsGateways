@@ -68,7 +68,7 @@ SandBox
   - Support for Multiple Protocols
   - Application Software
 - Applications
-  - Smar Factory
+  - Smart Factory
   - Smart City
   - Smart Energy
   - Safety
