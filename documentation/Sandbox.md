@@ -6,11 +6,11 @@ SandBox
 - [Kontron Cobalt 901](http://www.kontron.com/products/systems/defense-computers/compact-mission-computers/cobalt-901.html)
 
 - [AAEON Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/tatung-iot-gateway-solutions-video.html)
+- [Tatung Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/aaeon-iot-gateway-solutions-video.html) 
   - Smart Parking
   - Assest Management
   - IoT RF Gateway
-  - [](http://www.digitimes.com/news/a20051007A1001.html)
-- [Tatung Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/aaeon-iot-gateway-solutions-video.html) 
+  - [ECS and Tatung in strategic alliance](http://www.digitimes.com/news/a20051007A1001.html)
 - [NEXCOM Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/nexcom-iot-gateway-solutions-video.html)
 - [ADLINK Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/adlink-iot-gateway-solutions-video.html)
 
