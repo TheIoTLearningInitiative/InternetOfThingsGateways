@@ -16,7 +16,7 @@
   - Ubuntu
 - Support Propiteary I/O
 - Manageability
-- 
+- Global Support
 
 # [Kontron Cobalt 901](http://www.kontron.com/products/systems/defense-computers/compact-mission-computers/cobalt-901.html)
 
