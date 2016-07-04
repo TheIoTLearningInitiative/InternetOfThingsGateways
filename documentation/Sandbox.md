@@ -10,7 +10,7 @@ SandBox
   - Smart Parking
   - Assest Management
   - IoT RF Gateway
-  - [ECS and Tatung in strategic alliance](http://www.digitimes.com/news/a20051007A1001.html)
+  - [ECS and Tatung in Strategic Alliance](http://www.digitimes.com/news/a20051007A1001.html)
 - [NEXCOM Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/nexcom-iot-gateway-solutions-video.html)
 - [ADLINK Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/adlink-iot-gateway-solutions-video.html)
 
