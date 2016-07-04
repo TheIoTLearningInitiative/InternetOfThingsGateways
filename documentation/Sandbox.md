@@ -35,7 +35,9 @@ SandBox
   - AAEON AIOT-QA
     - Extreme Temperatures
     - Analog Digital RS485
+    - Industri
   - AAEON AIOT-QM
+
 
 # [Tatung Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/aaeon-iot-gateway-solutions-video.html) 
 
