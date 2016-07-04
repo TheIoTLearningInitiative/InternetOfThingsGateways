@@ -110,8 +110,11 @@ SandBox
   - Pre Validated HQ & SW Intel McAffee, Wind River
 - IoT Use Cases
   - Automated Parking Systems
+    - Seamless Integration
+    - Enhancing Operational Efficiency
   - Manufacturing
-  - 
+    - 
+    - 
    
 
 
