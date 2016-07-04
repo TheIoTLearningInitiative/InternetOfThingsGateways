@@ -60,7 +60,9 @@
   - Assest Management
   - IoT RF Gateway
 
-# [NEXCOM Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/nexcom-iot-gateway-solutions-video.html)
+# NEXCOM Intel-based Gateway Solutions
+
+[NEXCOM Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/nexcom-iot-gateway-solutions-video.html)
 
 > Bringing Intelligence to Complex Industries. from Edge to Cloud
 
