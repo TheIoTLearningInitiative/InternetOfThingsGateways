@@ -13,7 +13,7 @@
 
 - It is important to drive analytic and decision making as close to the edge as possible, sensors, action, very little latency, 
 - Operating Systems
-  - WindRiver
+  - WindRiver Linux
   - Windows
   - Ubuntu
 - Support Proprietary I/O
