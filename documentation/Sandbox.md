@@ -106,7 +106,7 @@ SandBox
   - MXE-100i Series
   - MXE-200i Series
   - Ultra-compact, Smart Embedded IoT Gateways
-  - 
+  - Performance, Connectivity, Security, Manegeability
 
 ## Making a Gateway
 
