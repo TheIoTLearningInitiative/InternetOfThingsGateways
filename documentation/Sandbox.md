@@ -67,6 +67,15 @@ SandBox
   - Scalability, Field Bus Protocols
   - Support for Multiple Protocols
   - Application Software
+- Applications
+  - Smar Factory
+  - Smart City
+  - Smart Energy
+  - Safety
+  - Transportaiton
+  - Logistics
+  - Ariculture
+  - Robotics
 
 # [ADLINK Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/adlink-iot-gateway-solutions-video.html)
 
