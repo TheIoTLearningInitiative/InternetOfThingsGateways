@@ -16,6 +16,7 @@
   - WindRiver Linux
   - Windows
   - Ubuntu
+- End to End set of SW, HW, Services and Partners 
 - Support Proprietary I/O
 - Manageability
 - Global Support
