@@ -108,8 +108,9 @@ SandBox
   - Ultra-compact, Smart Embedded IoT Gateways
   - Performance, Connectivity, Security, Manegeability
   - Pre Validated HQ & SW Intel McAffee, Wind River
-- Smart Parking
-  - 
+- IoT Use Cases
+  - Automated Parking Systems
+   
 
 
 ## Making a Gateway
