@@ -1,6 +1,6 @@
 # Intel-Based Gateway Solutions
 
-- Dell Edge Gateway 5000 Series 
+- Dell Edge Gateway 5000 Series
 - Kontron Cobalt 901
 - Trace C104-IV
 - HPE Edgeline EL10 Intelligent Gateway Series
@@ -9,6 +9,9 @@
 - Tatung Intel-based Gateway Solutions
 - NEXCOM Intel-based Gateway Solutions
 - ADLINK Intel-based Gateway Solutions
+- Advantech UTX-3115
+- Advantech AIMB-115
+
 
 # Dell Edge Gateway 5000 Series 
 
