@@ -95,7 +95,7 @@ SandBox
 
 # [ADLINK Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/adlink-iot-gateway-solutions-video.html)
 
-> World class application ready intelligent platform provider
+> World class application ready intelligent platform provider [AdlinkTech Homepage](https://www.adlinktech.com)
 
 - Challenges
   - Enabling network communication with divergent field site protocols
