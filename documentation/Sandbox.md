@@ -113,6 +113,8 @@ SandBox
     - Seamless Integration
     - Enhancing Operational Efficiency
   - Manufacturing
+    - Proactive Service
+    - Deployment in Harsh Environment
     -  
    
 
