@@ -76,6 +76,10 @@ SandBox
   - Logistics
   - Ariculture & Farm
   - Robotics
+- Architecture
+  - Physical System
+  - Peripherals
+  - 
 
 # [ADLINK Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/adlink-iot-gateway-solutions-video.html)
 
