@@ -1,4 +1,3 @@
-
 SandBox
 ==
 
@@ -99,7 +98,11 @@ SandBox
 > World class application ready intelligent platform provider
 
 - Challenges
-  -  
+  - Enabling network communication with divergent field site protocols
+  - Securing dependable transmission of collected data
+  - Guaranteeing functionality in demanding environment 
+  - Intelligently forecasting machine failure for zero downtime
+  - 
 
 ## Making a Gateway
 
