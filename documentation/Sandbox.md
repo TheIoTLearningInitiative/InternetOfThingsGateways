@@ -9,6 +9,8 @@ SandBox
 
 # [AAEON Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/tatung-iot-gateway-solutions-video.html)
 
+> Hardware and Software for Vertical Markets
+
 - Characteristics
   - Application Ready Platform
   - Solution Customization
