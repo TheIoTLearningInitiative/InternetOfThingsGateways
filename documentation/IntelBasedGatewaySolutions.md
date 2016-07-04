@@ -18,6 +18,7 @@
   - Ubuntu
 - End to End set of SW, HW, Services and Partners 
 - Support Proprietary I/O
+- I/O that it is not onboard, brakout box to design around a PCIe spec I/O missing 
 - Manageability
 - Global Support
 - Reliable Software Ecosystem
