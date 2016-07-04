@@ -22,7 +22,7 @@
 
 #
 
-- [Cisco ](http://www.cisco.com/c/en/us/products/routers/829-industrial-router/index.html)
+- [Cisco® 829](http://www.cisco.com/c/en/us/products/routers/829-industrial-router/index.html)
 
 # Dell Edge Gateway 5000 Series 
 
