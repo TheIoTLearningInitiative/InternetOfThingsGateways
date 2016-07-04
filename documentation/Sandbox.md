@@ -97,7 +97,7 @@ SandBox
 
 > World class application ready intelligent platform provider [AdlinkTech Homepage](https://www.adlinktech.com)
 
-> Industrial IoT Building Blocks, Intelligenet Middleware Ready 
+> Industrial IoT Building Blocks, Intelligent Middleware Ready 
 
 - Challenges
   - Enabling network communication with divergent field site protocols
