@@ -86,7 +86,12 @@ SandBox
   - Connected Car
   - Materials Handling
   - Intelligent Transportation
-- 
+    - Data
+    - GPS
+    - Rich I/O
+    - Can Bus
+    - OBDII
+    -  
 
 # [ADLINK Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/adlink-iot-gateway-solutions-video.html)
 
