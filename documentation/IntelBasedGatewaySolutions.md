@@ -13,7 +13,6 @@
 - ADLINK Intel-based Gateway Solutions
 - Advantech UTX-3115
 - Advantech AIMB-115
-- 
 
 # Cisco® 809 Industrial Integrated Services Routers
 
