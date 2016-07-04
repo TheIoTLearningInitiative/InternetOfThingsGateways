@@ -115,9 +115,7 @@ SandBox
   - Manufacturing
     - Proactive Service
     - Deployment in Harsh Environment
-    - Meeting Industrial Grade Requirements
-    -  
-   
+    - Meeting Industrial Grade Requirements  
 
 
 ## Making a Gateway
