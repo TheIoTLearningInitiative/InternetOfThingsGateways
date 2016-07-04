@@ -22,6 +22,7 @@
   - Quantity One
   - Global Support
     - Reliable Software Ecosystem
+    - Sistem Integrator Partners
 
 # Kontron Cobalt 901
 
