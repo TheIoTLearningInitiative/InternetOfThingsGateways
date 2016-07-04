@@ -4,10 +4,12 @@
 
 # Dell Edge Gateway 5000 Series 
 
+> Like a PC in the inside, like a 
+
 - [Dell Edge Gateway 5000 Series Homepage](http://www.dell.com/learn/us/en/04/campaigns/coming-soon-dell-iot-gateway)
 - [Intel® IoT Gateway Solutions from Dell: Get Performance at the Edge: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/dell-iot-gateway-solutions-video.html)
 
-- It is important to drive analytics and decisison makeing as close to the edge as possible, sensors, action.
+- It is important to drive analytics and decisison makeing as close to the edge as possible, sensors, action, very little latency, 
 
 # [Kontron Cobalt 901](http://www.kontron.com/products/systems/defense-computers/compact-mission-computers/cobalt-901.html)
 
