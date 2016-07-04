@@ -17,7 +17,7 @@
 - End to End set of SW, HW, Services and Partners 
 - Support Proprietary I/O
 - I/O that it is not onboard, brakout box to design around a PCIe spec any I/O missing 
-- Manageability
+- Manageability CCM (Cloud Client Management) 
 - Global Support
 - Reliable Software Ecosystem
 
