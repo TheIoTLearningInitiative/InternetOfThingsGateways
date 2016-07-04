@@ -10,7 +10,7 @@
 - [Intel® IoT Gateway Solutions from Dell: Get Performance at the Edge: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/dell-iot-gateway-solutions-video.html)
 
 - It is important to drive analytics and decisison makeing as close to the edge as possible, sensors, action, very little latency, 
-- OS
+- Operating Systems
   - WindRiver
   - Windows
   - Ubuntu
