@@ -19,8 +19,7 @@ SandBox
 - Features
   - Sensors Management Software
   - Gateway BSP
-  - Driver Support 
-  - Cloud Communication Module Drivers Support
+  - Gateway Communication Module Drivers Support
   - Cloud Communication Protocol
   - Cloud Management Platform
   - Vertical Industry SDKs (Dedicated Expertise)
