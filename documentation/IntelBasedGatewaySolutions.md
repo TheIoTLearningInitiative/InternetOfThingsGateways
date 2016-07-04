@@ -4,6 +4,8 @@
 
 # Dell Edge Gateway 5000 Series 
 
+> Smart Data, Fast Data, Quick Decisions
+
 > Like a PC at the inside, a control system at the outside
 
 - [Dell Edge Gateway 5000 Series Homepage](http://www.dell.com/learn/us/en/04/campaigns/coming-soon-dell-iot-gateway)
