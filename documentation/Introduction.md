@@ -20,7 +20,8 @@ In the Internet of Things (IoT), cloud-connected smart devices will give manufac
 
 Connectivity is critical to generating intelligence.
 
-- [Gateways](![](iotGateways.PNG)http://learninginternetofthings.com/gateways/)
+- [Gateways](![](iotGateways.PNG)
+- http://learninginternetofthings.com/gateways/)
 
 ### IoT Use Cases
 
