@@ -117,7 +117,8 @@ SandBox
     - Deployment in Harsh Environment
     - Meeting Industrial Grade Requirements
   - Preventive Maintenance
-    - 
+    - Complete Solutions
+    - Support for Critical Installations
 
 
 ## Making a Gateway
