@@ -103,7 +103,9 @@
     - OBDII
 - Windows, Android, Wind River
 
-# [ADLINK Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/adlink-iot-gateway-solutions-video.html)
+# ADLINK Intel-based Gateway Solutions
+
+[ADLINK Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/adlink-iot-gateway-solutions-video.html)
 
 > World class application ready intelligent platform provider [AdlinkTech Homepage](https://www.adlinktech.com)
 
