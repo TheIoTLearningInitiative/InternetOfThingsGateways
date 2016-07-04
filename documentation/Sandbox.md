@@ -35,7 +35,10 @@ SandBox
   - AAEON AIOT-QA
     - Extreme Temperatures
     - Analog Digital RS485
-    - Industri
+    - Industrial Communication Protocols
+      - Ethercap
+      - Mibinet
+      - ModBus
   - AAEON AIOT-QM
 
 
