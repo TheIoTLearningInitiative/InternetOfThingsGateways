@@ -107,6 +107,7 @@ SandBox
   - MXE-200i Series
   - Ultra-compact, Smart Embedded IoT Gateways
   - Performance, Connectivity, Security, Manegeability
+  - Pre Validated Intel McAffee, Wind River
 
 ## Making a Gateway
 
