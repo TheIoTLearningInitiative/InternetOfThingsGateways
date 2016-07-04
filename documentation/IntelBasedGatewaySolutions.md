@@ -14,8 +14,7 @@
   - WindRiver
   - Windows
   - Ubuntu
-
-- support Propiteary I/O
+- Support Propiteary I/O
 - Manageability
 - 
 
