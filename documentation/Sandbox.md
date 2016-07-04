@@ -6,7 +6,7 @@ SandBox
 - [Kontron Cobalt 901](http://www.kontron.com/products/systems/defense-computers/compact-mission-computers/cobalt-901.html)
 
 - [AAEON Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/tatung-iot-gateway-solutions-video.html)
-  - Smart Parling 
+  - Smart Parking 
 - [Tatung Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/aaeon-iot-gateway-solutions-video.html) 
 - [NEXCOM Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/nexcom-iot-gateway-solutions-video.html)
 - [ADLINK Intel-based Gateway Solutions: Video](https://www-ssl.intel.com/content/www/us/en/embedded/solutions/iot-gateway/adlink-iot-gateway-solutions-video.html)
