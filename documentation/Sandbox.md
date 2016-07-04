@@ -18,7 +18,7 @@ SandBox
     - Cloud Communication Module Drivers Support
     - Cloud Communication Protocol
     - Cloud Management Platform
-    - SDKs
+    - Vertical Industry SDKs (Dedicated Expertise)
       - Smart Building
       - Smart Factory
       - Retail & Fiscal
