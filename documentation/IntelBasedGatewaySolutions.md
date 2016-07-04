@@ -3,7 +3,8 @@
 - Dell Edge Gateway 5000 Series 
 - Kontron Cobalt 901
 - Trace C104-IV
-- HPE Edgeline EL10 Intelligent Gateway Series 
+- HPE Edgeline EL10 Intelligent Gateway Series
+- HPE Edgeline EL20 Intelligent Gateway Series
 - AAEON Intel-based Gateway Solutions
 - Tatung Intel-based Gateway Solutions
 - NEXCOM Intel-based Gateway Solutions
