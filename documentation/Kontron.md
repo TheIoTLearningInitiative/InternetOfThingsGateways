@@ -1,5 +1,9 @@
 # Kontron
 
+# Operating Systems
+
+Windows, Linux, Optional Power Built-in-Test (PBIT), For other requirements, contact factory
+
 # COBALT 901
 
 > Reduced Swap - Rugged Embedded Computer
