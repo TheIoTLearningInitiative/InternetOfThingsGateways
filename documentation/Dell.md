@@ -4,6 +4,7 @@
 
 - [Dell Bridges Connected Solutions With Internet Of Things Gateway](http://www.tomsitpro.com/articles/dell-iot-edge-gateway-5000,1-2953.html)
 - [Software AG to the Edge and Revolutionize IoT Architecture](http://www.softwareag.com/corporate/Press/pressreleases/20160615_Software_AG_to_the_Edge_and_Revolutionize_IoT_Architecture_page.asp)
+- [Architecting the Enterprise Internet of Things](http://www.slideshare.net/DellWorld/architecting-the-enterprise-internet-of-things)
 
 Characteristics
 
