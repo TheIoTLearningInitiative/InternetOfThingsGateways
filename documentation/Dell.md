@@ -27,12 +27,15 @@ Characteristics
 > Edge Gateway 5000
 > > Versatile edge computing for more secure, cost-effective IoT networks.
 
+- [Dell Edge Gateway 5000 Series Homepage](http://www.dell.com/us/business/p/dell-edge-gateway-5000/pd?ref=PD_OC)
+- [Dell Edge Gateway 5000 Series Press Release](http://www.dell.com/learn/us/en/uscorp1/secure/2015-10-20-dell-edge-gateway-5000-internet-of-things)
+
+# Dell Edge Gateway 5100
+
 > Edge Gateway 5100
 > > Industrial, powerful and insightful IoT solutions even in extreme conditions.
 
-- [Dell Edge Gateway 5000 Series Homepage](http://www.dell.com/us/business/p/dell-edge-gateway-5000/pd?ref=PD_OC)
 - [Dell Edge Gateway 5100 Series Homepage](http://www.dell.com/us/business/p/dell-edge-gateway-5100/pd?ref=PD_OC)
-- [Dell Edge Gateway 5000 Series Press Release](http://www.dell.com/learn/us/en/uscorp1/secure/2015-10-20-dell-edge-gateway-5000-internet-of-things)
 
 Features
 
