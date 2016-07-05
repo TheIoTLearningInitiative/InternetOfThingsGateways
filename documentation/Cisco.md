@@ -4,7 +4,7 @@
 
 Benefits
 
-- Reduce downtime and maintain continous access
+- Reduce downtime and maintain continuous access
 - Prioritize operational traffic
 - Lower operational costs
 - Improve security
