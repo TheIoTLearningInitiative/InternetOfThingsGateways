@@ -58,4 +58,5 @@ metering, and more.
 - [Cisco® 910 Industrial Router At A Glance](http://www.cisco.com/c/dam/en/us/products/collateral/routers/900-series-industrial-routers/at-a-glance-c45-732146.pdf)
 - [Cisco® 910 Industrial Router Quick Start Guide](http://www.cisco.com/c/en/us/td/docs/routers/ir910/hardware/installation/guide/IR910qsg.pdf)
 - [Cisco® 910 Industrial Router Questions and Answers](http://www.cisco.com/c/en/us/products/collateral/routers/900-series-industrial-routers/q-and-a-c67-732147.html)
+- [Cisco® 910 Industrial Router Software Configuration Guide, Release 1.0](http://www.cisco.com/c/en/us/td/docs/routers/ir910/software/release/1_0/configuration/guide/ir910scg.html)
 
