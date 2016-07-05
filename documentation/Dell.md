@@ -7,14 +7,14 @@ Characteristics
 - The future of Analytics
 - Engineered for the extreme
 - Connect More Things
-
-Gateway Accessories
-
-- Power Module
-- I/O Expansion Module
-- Rugged Enclosure
-- Mesh Networking Adapter
-- CAN bus
+- Gateway Accessories
+  - Power Module
+  - I/O Expansion Module
+  - Rugged Enclosure
+  - Mesh Networking Adapter
+  - CAN bus
+- Expert help from ProSupport
+- Dell IoT Partner Program
 
 # Dell Edge Gateway 5000 Series
 
