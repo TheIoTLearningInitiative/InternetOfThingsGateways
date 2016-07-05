@@ -27,8 +27,8 @@ Models
 > Cisco 500 Series WPAN Industrial Routers: Wi-SUN RF Mesh ruggedized router provide unlicensed 915-MHz, ISM-band wireless personal-area network (WPAN) communications that enables IoT applications, including smart metering, distribution automation, street lighting, and remote supervisory control and data acquisition (SCADA) monitoring.
 
 - [Cisco 500 Series WPAN Industrial Routers](http://www.cisco.com/c/en/us/products/routers/500-series-wpan-industrial-routers/index.html)
+- [Cisco 500 Series WPAN Industrial Routers Literature](http://www.cisco.com/c/en/us/products/routers/500-series-wpan-industrial-routers/literature.html)
 # Cisco® 809 Industrial Integrated Services Routers
-
 
 > Cisco 809 Industrial Integrated Services Routers: Very compact cellular (3G and 4G/LTE) industrial routers for remote deployment in various industries. They enable reliable and secure cellular connectivity for remote asset monitoring and machine-to-machine (M2M) solutions such as distribution automation, pipeline monitoring, and roadside infrastructure monitoring.
 
