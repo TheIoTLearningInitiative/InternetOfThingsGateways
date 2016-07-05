@@ -21,7 +21,7 @@ Benefits
 
 # Cisco® 829 Industrial Integrated Services Routers
 
-
+> Cisco 829 Industrial Integrated Services Routers: Highly ruggedized compact cellular (3G and 4G LTE with GPS and dual SIM) and WLAN (2.4/5GHz) industrial routers supporting for scalable, reliable, and secure management of fleet vehicles and mass transit applications. 
 
 # Cisco® 910 Industrial Router
 
