@@ -2,6 +2,20 @@
 
 - [Dell Edge Gateways for IoT](http://www.dell.com/us/business/p/edge-gateway)
 
+Characteristics
+
+- The future of Analytics
+- Engineered for the extreme
+- Connect More Things
+
+Gateway Accessories
+
+- Power Module
+- I/O Expansion Module
+- Rugged Enclosure
+- Mesh Networking Adapter
+- CAN bus
+
 # Dell Edge Gateway 5000 Series
 
 - [Dell Edge Gateway 5000 Series Homepage]()
