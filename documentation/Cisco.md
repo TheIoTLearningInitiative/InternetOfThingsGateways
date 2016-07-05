@@ -31,7 +31,7 @@ Models
 - [Cisco 500 Series WPAN Industrial Routers Datasheet](http://www.cisco.com/c/en/us/products/collateral/routers/500-series-wpan-industrial-routers/datasheet-c78-730550.pdf)
 - [Cisco 500 Series WPAN Industrial Routers Whitepapers](http://www.cisco.com/c/en/us/products/routers/500-series-wpan-industrial-routers/white-paper-listing.html)
   - A Standardized and Flexible IPv6 Architecture for Field Area Networks
-  - Cisco Connected Grid Security for Field Area Networks (PDF - 441 KB)
+  - Cisco Connected Grid Security for Field Area Networks
   - Unified FAN Architecture for Distribution Automation
   - Unified Field Area Network Architecture for Distribution Automation White Paper
 
