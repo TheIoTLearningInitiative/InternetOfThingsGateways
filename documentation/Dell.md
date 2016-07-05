@@ -35,7 +35,6 @@ Characteristics
 - Optional wireless mesh modules: IEEE 802.15.4 Zigbee/6LoWPAN combo module*, Z-Wave module
 
 ## Operating Systems
-
 	
 - Snappy Ubuntu Core 15.04 Operating System [Included in Price]
 - Intel Wind River Linux 3.1 Operating System [add $10.00]
