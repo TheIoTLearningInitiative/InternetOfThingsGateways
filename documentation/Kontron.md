@@ -19,3 +19,5 @@
 - [COBALT 901 Datasheet](http://www.kontron.com/downloads/datasheet/datasheet_cobalt-901.pdf?product=89292)
 
 # COBALT 902 Situational Awareness
+
+- [COBALT 902 Situational Awareness](http://www.kontron.com/products/systems/defense-computers/compact-mission-computers/cobalt-902.html)
