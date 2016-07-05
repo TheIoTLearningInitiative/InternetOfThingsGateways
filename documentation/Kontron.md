@@ -4,6 +4,8 @@
 
 > Compact Mission Computers. Kontron's next-generation COBALT product family delivers application-specific I/O ideally suited to established military application profiles. The new I/O options are cost-effective, modular solutions that streamline integration of situational awareness, removable storage and processor/networking switch capabilities.
 
+- [Kontron Services Brochure](http://www.kontron.com/support-and-services/services/kontron-services-brochure.pdf?product=134831)
+
 ## Operating Systems
 
 - Windows
