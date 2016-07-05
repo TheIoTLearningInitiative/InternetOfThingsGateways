@@ -1,6 +1,6 @@
 # Dell
 
-- [](http://www.dell.com/us/business/p/edge-gateway)
+- [Dell Edge Gateways for IoT](http://www.dell.com/us/business/p/edge-gateway)
 
 # Dell Edge Gateway 5000 Series
 
