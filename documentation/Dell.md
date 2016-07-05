@@ -1,9 +1,10 @@
-Dell
-==
+# Dell
 
-## Dell Edge Gateway 5000 Series
+- [](http://www.dell.com/us/business/p/edge-gateway)
 
-- [Dell Edge Gateway 5000 Series Homepage](http://www.dell.com/learn/us/en/04/campaigns/coming-soon-dell-iot-gateway)
+# Dell Edge Gateway 5000 Series
+
+- [Dell Edge Gateway 5000 Series Homepage]()
 - [Dell Edge Gateway 5000 Series Press Release](http://www.dell.com/learn/us/en/uscorp1/secure/2015-10-20-dell-edge-gateway-5000-internet-of-things)
 
 - Dual independent gigabit Ethernet: 2 x RJ-45 USB: 2 x USB2, 1 x USB3
