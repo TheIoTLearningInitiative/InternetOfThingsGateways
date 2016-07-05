@@ -37,7 +37,7 @@ Characteristics
 
 - [Dell Edge Gateway 5100 Series Homepage](http://www.dell.com/us/business/p/dell-edge-gateway-5100/pd?ref=PD_OC)
 
-Features
+# Features
 
 - Dual independent gigabit Ethernet: 2 x RJ-45 USB: 2 x USB2, 1 x USB3
 - Serial interfaces: 1 x RS-232, 2 x RS-485. | 1 x RS-422/485
