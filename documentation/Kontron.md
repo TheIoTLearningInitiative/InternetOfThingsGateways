@@ -13,6 +13,10 @@
 - Linux
 - Optional Power Built-in-Test (PBIT)
 
+# 
+
+[](http://www.kontron.com/products/systems/connectivity/gateways/trace-g304-tr.html)
+
 # COBALT 901
 
 > Reduced Swap - Rugged Embedded Computer
