@@ -32,3 +32,7 @@ Characteristics
 - Optional CANbus card*
 - 802.11n + WiFi Bluetooth low energy; WWAN (3G or LTE)
 - Optional wireless mesh modules: IEEE 802.15.4 Zigbee/6LoWPAN combo module*, Z-Wave module
+
+# Dell IoT Partners
+
+> Dell IoT Solutions Partner Ecosystem. Making the Internet of Things a reality by combining a community of technology providers and domain experts with our broad portfolio of solution-enabling assets. [Dell IoT Partners](http://delliotpartners.com/)
