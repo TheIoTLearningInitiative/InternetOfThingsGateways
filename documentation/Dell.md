@@ -16,6 +16,12 @@ Characteristics
 - Expert help from ProSupport
 - Dell IoT Partner Program
 
+## Operating Systems
+	
+- Snappy Ubuntu Core 15.04 Operating System [Included in Price]
+- Intel Wind River Linux 3.1 Operating System [add $10.00]
+- Windows 10 IoT Enterprise LTSB for Direct Customers [add $74.00]
+
 # Dell Edge Gateway 5000 Series
 
 > Edge Gateway 5000
@@ -35,12 +41,6 @@ Features
 - Optional CANbus card*
 - 802.11n + WiFi Bluetooth low energy; WWAN (3G or LTE)
 - Optional wireless mesh modules: IEEE 802.15.4 Zigbee/6LoWPAN combo module*, Z-Wave module
-
-## Operating Systems
-	
-- Snappy Ubuntu Core 15.04 Operating System [Included in Price]
-- Intel Wind River Linux 3.1 Operating System [add $10.00]
-- Windows 10 IoT Enterprise LTSB for Direct Customers [add $74.00]
 
 # Dell IoT Partners
 
