@@ -17,6 +17,7 @@ Benefits
 
 # Cisco® 809 Industrial Integrated Services Routers
 
+
 > Cisco 809 Industrial Integrated Services Routers: Very compact cellular (3G and 4G/LTE) industrial routers for remote deployment in various industries. They enable reliable and secure cellular connectivity for remote asset monitoring and machine-to-machine (M2M) solutions such as distribution automation, pipeline monitoring, and roadside infrastructure monitoring.
 
 - [Cisco 809 Industrial Integrated Services Routers Homepage](http://www.cisco.com/c/en/us/products/routers/809-industrial-router/index.html)
@@ -26,6 +27,8 @@ Benefits
 # Cisco® 829 Industrial Integrated Services Routers
 
 > Cisco 829 Industrial Integrated Services Routers: Highly ruggedized compact cellular (3G and 4G LTE with GPS and dual SIM) and WLAN (2.4/5GHz) industrial routers supporting for scalable, reliable, and secure management of fleet vehicles and mass transit applications. 
+
+- [Cisco 829 Industrial Integrated Services Routers Homepage](http://www.cisco.com/c/en/us/products/routers/829-industrial-router/index.html)
 
 # Cisco® 910 Industrial Router
 
