@@ -2,6 +2,8 @@
 
 > Kontron, a global leader in embedded computing technology and trusted advisor in IoT, works closely with its customers, allowing them to focus on their core competencies by offering a complete and integrated portfolio of hardware, software and services designed to help them make the most of their applications. [Homepage](http://www.kontron.com/)
 
+> Compact Mission Computers. Kontron's next-generation COBALT product family delivers application-specific I/O ideally suited to established military application profiles. The new I/O options are cost-effective, modular solutions that streamline integration of situational awareness, removable storage and processor/networking switch capabilities.
+
 ## Operating Systems
 
 - Windows
