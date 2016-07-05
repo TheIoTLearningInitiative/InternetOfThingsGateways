@@ -18,7 +18,7 @@
 > Kontron TRACe G304-TR is an EN50155 certified fanless operational Computer. This "G" version is a certified Gateway enabling data connectivity to telemetry devices, station and train control, specifically designed for rolling stock remote control operations and infotainment applications. 
 
 - [TRACe G304-TR Homepage](http://www.kontron.com/products/systems/connectivity/gateways/trace-g304-tr.html)
-- [TRACe G304-TR Datasheet]()
+- [TRACe G304-TR Datasheet](http://www.kontron.com/downloads/datasheet/trace-g304-tr-05-2016.pdf?product=134450)
 
 # COBALT 901
 
