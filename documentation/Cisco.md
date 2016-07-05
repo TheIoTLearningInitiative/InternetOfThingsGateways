@@ -2,6 +2,15 @@
 
 > Securely and Reliably Connect All Areas of Your Business. In San Francisco, an integrated, Internet of Things (IoT)-based network with parking, garage, and roadway sensors reduced parking search time by 43 percent. And parking citations dropped by 23 percent. [Cisco Industrial Router Portfolio](http://www.cisco.com/c/dam/en/us/products/collateral/routers/809-industrial-router/at-a-glance-c45-735008.pdf)
 
+Benefits
+
+- Reduce downtime and maintain continous access
+- Prioritize operational traffic
+- Lower operational costs
+- Improve security
+- Improve application resilience
+- boost efficiency and better decision making
+
 # Cisco® 809 Industrial Integrated Services Routers
 
 - [Cisco 809 Industrial Integrated Services Routers Homepage](http://www.cisco.com/c/en/us/products/routers/809-industrial-router/index.html)
@@ -12,3 +21,7 @@
 
 
 
+# Cisco® 910 Industrial Router
+
+> Cisco 910 Industrial Router: Highly adaptable routers that you can easily integrate with third-party solutions to deliver smart city applications, such as environmental monitoring, smart parking, smart
+metering, and more.
