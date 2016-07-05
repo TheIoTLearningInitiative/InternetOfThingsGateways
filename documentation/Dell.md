@@ -34,6 +34,13 @@ Characteristics
 - 802.11n + WiFi Bluetooth low energy; WWAN (3G or LTE)
 - Optional wireless mesh modules: IEEE 802.15.4 Zigbee/6LoWPAN combo module*, Z-Wave module
 
+## Operating Systems
+
+	
+- Snappy Ubuntu Core 15.04 Operating System [Included in Price]
+- Intel Wind River Linux 3.1 Operating System [add $10.00]
+- Windows 10 IoT Enterprise LTSB for Direct Customers [add $74.00]
+
 # Dell IoT Partners
 
 > Dell IoT Solutions Partner Ecosystem. Making the Internet of Things a reality by combining a community of technology providers and domain experts with our broad portfolio of solution-enabling assets. [Dell IoT Partners](http://delliotpartners.com/)
