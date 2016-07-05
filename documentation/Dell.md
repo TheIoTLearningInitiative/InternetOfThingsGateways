@@ -2,6 +2,9 @@
 
 - [Dell Edge Gateways for IoT](http://www.dell.com/us/business/p/edge-gateway)
 
+
+- [Software AG to the Edge and Revolutionize IoT Architecture](http://www.softwareag.com/corporate/Press/pressreleases/20160615_Software_AG_to_the_Edge_and_Revolutionize_IoT_Architecture_page.asp)
+
 Characteristics
 
 - The future of Analytics
