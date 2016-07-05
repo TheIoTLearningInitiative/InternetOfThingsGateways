@@ -28,6 +28,8 @@ Models
 
 - [Cisco 500 Series WPAN Industrial Routers](http://www.cisco.com/c/en/us/products/routers/500-series-wpan-industrial-routers/index.html)
 - [Cisco 500 Series WPAN Industrial Routers Literature](http://www.cisco.com/c/en/us/products/routers/500-series-wpan-industrial-routers/literature.html)
+- [Cisco 500 Series WPAN Industrial Routers Datasheet](http://www.cisco.com/c/en/us/products/collateral/routers/500-series-wpan-industrial-routers/datasheet-c78-730550.pdf)
+- [Cisco 500 Series WPAN Industrial Routers Whitepapers](http://www.cisco.com/c/en/us/products/routers/500-series-wpan-industrial-routers/white-paper-listing.html)
 # Cisco® 809 Industrial Integrated Services Routers
 
 > Cisco 809 Industrial Integrated Services Routers: Very compact cellular (3G and 4G/LTE) industrial routers for remote deployment in various industries. They enable reliable and secure cellular connectivity for remote asset monitoring and machine-to-machine (M2M) solutions such as distribution automation, pipeline monitoring, and roadside infrastructure monitoring.
