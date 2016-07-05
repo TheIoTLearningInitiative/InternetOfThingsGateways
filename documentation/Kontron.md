@@ -1,6 +1,6 @@
 # Kontron
 
-# Operating Systems
+## Operating Systems
 
 - Windows
 - Linux
