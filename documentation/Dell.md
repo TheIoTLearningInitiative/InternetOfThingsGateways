@@ -21,7 +21,8 @@ Gateway Accessories
 > Edge Gateway 5000
 > > Versatile edge computing for more secure, cost-effective IoT networks.
 
-
+> Edge Gateway 5100
+> > Industrial, powerful and insightful IoT solutions even in extreme conditions.
 
 - [Dell Edge Gateway 5000 Series Homepage]()
 - [Dell Edge Gateway 5000 Series Press Release](http://www.dell.com/learn/us/en/uscorp1/secure/2015-10-20-dell-edge-gateway-5000-internet-of-things)
