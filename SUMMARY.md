@@ -7,6 +7,7 @@
        * [Intel-Based Gateway Solutions](documentation/IntelBasedGatewaySolutions.md)
        * [Cisco](documentation/Cisco.md)
        * [Dell](documentation/Dell.md)
+       * Kontron
    * [Advantech](documentation/Advantech.md)
    * [Exolinked](documentation/Exolinked.md)
 * [Frameworks](documentation/Frameworks.md)
