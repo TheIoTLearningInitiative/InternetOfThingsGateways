@@ -2,7 +2,9 @@
 
 # Operating Systems
 
-Windows, Linux, Optional Power Built-in-Test (PBIT), For other requirements, contact factory
+- Windows
+- Linux
+- Optional Power Built-in-Test (PBIT)
 
 # COBALT 901
 
