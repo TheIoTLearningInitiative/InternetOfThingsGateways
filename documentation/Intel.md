@@ -187,5 +187,7 @@ The Wind River Edge Management System provides BSPs for the following boards.
 https://software.intel.com/en-us/iot/hardware/gateways
 
 ## Getting Started with Intel® IoT Gateways with Intel® IoT Developer Kit 3.5
+
+> 
 https://software.intel.com/en-us/getting-started-with-intel-iot-gateways-and-iotdk
 
