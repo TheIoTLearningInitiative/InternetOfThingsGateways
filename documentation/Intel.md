@@ -1,5 +1,5 @@
-Intel® IoT Gateways
-==
+# Intel® IoT Gateways
+
 > Intel® IoT Gateways connect legacy and next generation intelligent infrastructure reducing time-to-market and development cost with open architecture pre-validated solutions.
 
 > Intel® IoT Gateways are preconfigured with Wind River Helix Device Cloud agent, it provides easy connectivity to facilitate device configuration, data capture, file transfers, etc.
@@ -182,3 +182,6 @@ The Wind River Edge Management System provides BSPs for the following boards.
 ```
 
 
+# Intel IoT Hardware Gateways
+
+https://software.intel.com/en-us/iot/hardware/gateways
