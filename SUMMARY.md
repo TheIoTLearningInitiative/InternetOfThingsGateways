@@ -8,7 +8,7 @@
        * [Cisco](documentation/Cisco.md)
        * [Dell](documentation/Dell.md)
        * [Kontron](documentation/Kontron.md)
-       * Hewlett Packard Enterprise
+       * [Hewlett Packard Enterprise](documentation/HewlettPackardEnterprise.md)
    * [Advantech](documentation/Advantech.md)
    * [Exolinked](documentation/Exolinked.md)
 * [Frameworks](documentation/Frameworks.md)
