@@ -19,13 +19,25 @@ Intel Gateway Solutions for IoT provides:
 - A hardware root of trust, data encryption, attestation, and software lockdown for security
 - Local computing for in-device analytics.
 
-## Partners
+# Intel IoT Hardware Gateways
 
-### McAfee
+https://software.intel.com/en-us/iot/hardware/gateways
+
+## Getting Started with Intel® IoT Gateways with Intel® IoT Developer Kit 3.5
+
+> This guide contains all the information you need to assemble your own commercial developer kit, from the hardware components you'll need to the software you'll use to communicate with each component of your project.
+
+> With the release of Intel® IoT Developer Kit version 3.5, Intel now provides support for projects built using an Intel® IoT gateway -- a component that connects devices for generating intelligence without replacing existing infrastructure. Intel® IoT gateways can make use of the MRAA and UPM libraries, and communicate with a wide range of sensors and actuators via the Arduino 101* board. You can create applications for your gateway using the Node-RED* visual programming language. You can also connect and transfer code to your gateway from the Intel® XDK IoT Edition (for JavaScript*) or Intel® System Studio IoT Edition (for C/C++ or Java), available as part of the Intel IoT Developer Kit.
+
+- [Getting Started with Intel® IoT Gateways with Intel® IoT Developer Kit 3.5](https://software.intel.com/en-us/getting-started-with-intel-iot-gateways-and-iotdk)
+
+# Partners
+
+## McAfee
 
 > Intel Security Group (previously McAfee, Inc. /ˈmækəfiː/) is an American global computer security software company headquartered in Santa Clara, California, and the world's largest dedicated security technology company. [Wikipedia](https://en.wikipedia.org/wiki/Intel_Security)
 
-### Wind River
+## Wind River
 
 > Wind River is a subsidiary company of Intel providing embedded system software which comprises run-time software, industry-specific software solutions, simulation technology, development tools and middleware. [Wikipedia](https://en.wikipedia.org/wiki/Wind_River_Systems)
 
@@ -55,7 +67,7 @@ Intel® IoT Gateway Development Kit Features:
 - [DK100 Getting Started](http://www.intel.com/content/www/us/en/embedded/design-tools/evaluation-platforms/gateway-solutions/dk100-development-kit-getting-started-guide.html)
 - [DK200 Getting Started](http://www.intel.com/content/www/us/en/embedded/design-tools/evaluation-platforms/gateway-solutions/dk200-development-kit-getting-started-guide.html)
 
-### Wind River® Linux 5.0 / 5.1
+## Wind River® Linux 5.0 / 5.1
 
 - Wind River Linux Overview
 - Development & Build Environment
@@ -64,7 +76,7 @@ Intel® IoT Gateway Development Kit Features:
 - Userspace & Kernel Development
 - Debugging
 
-### Wind River® Intelligent Device Platform XT 2.0
+## Wind River® Intelligent Device Platform XT 2.0
 
 > The Foundation for Building Devices That Connect to the Internet of Things
 
@@ -180,17 +192,4 @@ The Wind River Edge Management System provides BSPs for the following boards.
      ...
      [Go to https://quickstart.internetofthings.ibmcloud.com/#/ and write Device ID based on device MAC Address]
 ```
-
-
-# Intel IoT Hardware Gateways
-
-https://software.intel.com/en-us/iot/hardware/gateways
-
-## Getting Started with Intel® IoT Gateways with Intel® IoT Developer Kit 3.5
-
-> This guide contains all the information you need to assemble your own commercial developer kit, from the hardware components you'll need to the software you'll use to communicate with each component of your project.
-
-> With the release of Intel® IoT Developer Kit version 3.5, Intel now provides support for projects built using an Intel® IoT gateway -- a component that connects devices for generating intelligence without replacing existing infrastructure. Intel® IoT gateways can make use of the MRAA and UPM libraries, and communicate with a wide range of sensors and actuators via the Arduino 101* board. You can create applications for your gateway using the Node-RED* visual programming language. You can also connect and transfer code to your gateway from the Intel® XDK IoT Edition (for JavaScript*) or Intel® System Studio IoT Edition (for C/C++ or Java), available as part of the Intel IoT Developer Kit.
-
-- [Getting Started with Intel® IoT Gateways with Intel® IoT Developer Kit 3.5](https://software.intel.com/en-us/getting-started-with-intel-iot-gateways-and-iotdk)
 
