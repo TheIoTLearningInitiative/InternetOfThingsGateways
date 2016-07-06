@@ -11,7 +11,7 @@
 
 # HPE Edgeline EL20 Intelligent Gateway
 
-- []()
+- [HPE Edgeline EL20 Intelligent Gateway Homepage](http://www8.hp.com/us/en/products/server-edgeline/product-detail.html?oid=1008670391)
 - []()
 - []()
 - []()
