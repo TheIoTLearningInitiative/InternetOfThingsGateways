@@ -9,6 +9,7 @@
        * [Dell](documentation/Dell.md)
        * [Kontron](documentation/Kontron.md)
        * [Hewlett Packard Enterprise](documentation/HewlettPackardEnterprise.md)
+       * Labs
    * [Advantech](documentation/Advantech.md)
    * [Exolinked](documentation/Exolinked.md)
 * [Frameworks](documentation/Frameworks.md)
