@@ -6,8 +6,6 @@
 
 - [HPE Edgeline EL10 Intelligent Gateway Homepage](http://www8.hp.com/us/en/products/server-edgeline/product-detail.html?oid=1008670386)
 - [HPE Edgeline EL10 Intelligent Gateway QuickSpecs](https://www.hpe.com/h20195/v2/gethtml.aspx?docname=c04884747)
-- []()
-- []()
 
 # HPE Edgeline EL20 Intelligent Gateway
 
