@@ -1,6 +1,7 @@
 SandBox
 ==
 
+https://software.intel.com/en-us/SetupGateway-PullSensorData-C
 
 ## Making a Gateway
 
