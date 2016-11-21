@@ -13,6 +13,7 @@
    * [Advantech](documentation/Advantech.md)
    * [Exolinked](documentation/Exolinked.md)
    * Cisco
+   * NXP
 * [Frameworks](documentation/Frameworks.md)
 * [Databases](documentation/Databases.md)
 * [Virtual](documentation/Virtual.md)
